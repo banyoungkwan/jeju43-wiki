@@ -19,6 +19,8 @@ private: true
 | wiki/sources/glossary-eng.md | Jeju 4·3 Incident Report — English Glossary | 용어집 | 2003 |
 | wiki/sources/추가진상조사보고서.md | 제주4·3추가진상조사보고서 I | 공식보고서 | 2019 |
 | wiki/sources/jeju43-followup-eng.md | Jeju 4·3 Follow-up Investigations Report I (ENG) | 공식보고서 번역 | 2019 |
+| wiki/sources/화해와상생.md | [사료] 화해와 상생 — 제주4·3위원회 백서(2008) | 백서/2차자료 | 2008 |
+| wiki/sources/70주년-어둠에서빛으로.md | [사료] 제주4·3 70주년 — 어둠에서 빛으로 | 기념자료집/2차자료 | 2018 |
 
 ## Concepts
 
@@ -27,6 +29,7 @@ private: true
 | wiki/concepts/국가폭력.md | 국가폭력 | jeju43, 주제 |
 | wiki/concepts/집단기억.md | 집단기억 | 기억, 이론 |
 | wiki/concepts/이행기정의.md | 이행기정의 | jeju43, 주제 |
+| wiki/concepts/화해.md | 화해 | 이행기정의, 기억 |
 
 ## Entities
 
@@ -35,6 +38,8 @@ private: true
 | wiki/entities/9연대.md | 제9연대 | 기관 |
 | wiki/entities/서북청년단.md | 서북청년단 | 기관 |
 | wiki/entities/4-3위원회.md | 4·3위원회 | 기관 |
+| wiki/entities/재일제주인.md | 재일제주인 (在日濟州人) | 집단/디아스포라 |
+| wiki/entities/4-3평화공원.md | 4·3평화공원 / 평화기념관 | 장소/기관 |
 
 ## Timelines
 
@@ -48,4 +53,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 15 | 소스: 8 | 마지막 업데이트: 2026-04-08
+총 페이지: 22 | 소스: 10 | 마지막 업데이트: 2026-04-08
