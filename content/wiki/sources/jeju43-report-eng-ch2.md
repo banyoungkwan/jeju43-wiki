@@ -3,7 +3,7 @@ title: "Jeju 4·3 Report (English): Chapter II — Background"
 aliases: [ChapterII_Jeju43Report_ENG, 진상보고서 영문 2장]
 type: 2차사료
 tags: [영문번역, 진상보고서, jeju43, 미군정기, 배경]
-date_range: "1945 ~ 1948-04-02"
+date_range: "1945 – 1948-04-02"
 created: 2026-04-08
 updated: 2026-04-08
 sources:
