@@ -40,19 +40,19 @@ sources:
 
 #### 1. 9연대 초토화 작전 자문 (1948.11–1949.03)
 
-- **1948-11-08 주간활동요약**: 9연대장 송요찬을 "강력하고 적극적임"으로 평가하고 9연대의 작전 성과를 상세히 보고. CIA의 우수한 업무 수행도 언급.
+- **[1948-11-08 주간활동요약](https://archive.jeju43.info/document/489)**: 9연대장 송요찬을 "강력하고 적극적임"으로 평가하고 9연대의 작전 성과를 상세히 보고. CIA의 우수한 업무 수행도 언급.
 - **1948-11-15**: 서북청년단 3개 대대 충원 계획 보고 — 서북청년단의 군 편입에 KMAG가 인지하고 있었음을 보여줌
 - **1948-12-06**: 2연대의 9연대 교체 계획 보고 → 실제 2연대 파견 (1948.12.17)
 
-#### 2. 로버츠 단장 → 로얄 육군장관 보고서 (1949-01-07)
+#### 2. 로버츠 단장 → 로얄 육군장관 보고서 ([1949-01-07, ID 532](https://archive.jeju43.info/document/532))
 
 로버츠(W. L. Roberts) 준장이 케네스 로얄(Kenneth C. Royall) 육군성 장관에게 보낸 포괄적 보고서. 남한 방위병력(한국군·해군·경찰)의 역사·조직·규모와 제주도 진압 작전 현황을 7개 첨부문서와 함께 상세히 보고. 최고위급 미군 지도부가 제주 사태를 전면적으로 파악하고 있었음을 보여주는 핵심 문서.
 
-#### 3. 사면 프로그램 보고 (1949-03-19)
+#### 3. 사면 프로그램 보고 ([1949-03-19, ID 548](https://archive.jeju43.info/document/548))
 
 로버츠 준장의 사면 프로그램 보고서: 한국군이 귀순공작·사면 프로그램을 통해 무장대원들의 투항을 유도하는 과정을 KMAG이 자문하고 보고. 이 시기 포로 수가 급증(1949-03: 279명, 1949-04: 548명).
 
-#### 4. "무자비한 주민살해·마을방화" 문서 (1949-07-28)
+#### 4. "무자비한 주민살해·마을방화" 문서 ([1949-07-28, ID 539](https://archive.jeju43.info/document/539))
 
 KMAG 연락사무소가 제2군사령관 멀린스(C. L. Mullins Jr.) 소장에게 보낸 공한. 한국군 훈련 평가 속에서 제주도에서의 "무자비한 주민살해·마을방화"를 기술. 진압이 완료된 이후에도 미군이 민간인 학살 실태를 파악하고 있었음을 보여주는 문서.
 
@@ -103,13 +103,13 @@ The Korean Military Advisory Group (KMAG) was the U.S. military mission responsi
 
 ### Key 4·3 Documents
 
-**November 8, 1948 — Song Yo-chan assessment**: KMAG described 9th Regiment commander Song Yo-chan as "powerful and aggressive," endorsed his command style, and reported approvingly on operation results. This document demonstrates active American endorsement of the officer who would oversee the worst atrocities.
+**[November 8, 1948 — Song Yo-chan assessment](https://archive.jeju43.info/document/489)**: KMAG described 9th Regiment commander Song Yo-chan as "powerful and aggressive," endorsed his command style, and reported approvingly on operation results. This document demonstrates active American endorsement of the officer who would oversee the worst atrocities.
 
-**January 7, 1949 — Roberts to Secretary Royall**: A comprehensive briefing to the Secretary of the Army on Korean defense forces, including the Jeju suppression. This document proves awareness at the highest levels of the U.S. Army chain of command.
+**[January 7, 1949 — Roberts to Secretary Royall](https://archive.jeju43.info/document/532)**: A comprehensive briefing to the Secretary of the Army on Korean defense forces, including the Jeju suppression. This document proves awareness at the highest levels of the U.S. Army chain of command.
 
-**March 19, 1949 — Amnesty program report**: KMAG's role in designing and monitoring the Korean amnesty and surrender program — indicating advisory involvement beyond mere observation.
+**[March 19, 1949 — Amnesty program report](https://archive.jeju43.info/document/548)**: KMAG's role in designing and monitoring the Korean amnesty and surrender program — indicating advisory involvement beyond mere observation.
 
-**July 28, 1949 — "Ruthless killing of civilians and village burning"**: A letter from KMAG liaison to Major General Mullins describing brutal tactics in Jeju while nominally discussing Korean Army training — evidence that atrocity knowledge reached senior U.S. commanders.
+**[July 28, 1949 — "Ruthless killing of civilians and village burning"](https://archive.jeju43.info/document/539)**: A letter from KMAG liaison to Major General Mullins describing brutal tactics in Jeju while nominally discussing Korean Army training — evidence that atrocity knowledge reached senior U.S. commanders.
 
 **June 27, 1949 — "2,400 guerrillas killed in six months"**: KMAG's operational accounting of deaths in the preceding six-month period, figures that subsequent investigation showed included large numbers of unarmed civilians.
 

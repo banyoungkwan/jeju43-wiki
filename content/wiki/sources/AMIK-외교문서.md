@@ -119,7 +119,7 @@ publisher: 주한미사절단 (AMIK) / 주한미대사관
 
 ---
 
-### IV. **핵심 문서: "제주도 소탕작전 상황" (1949-04-09, 전문 ID 905)**
+### IV. **핵심 문서: "제주도 소탕작전 상황" (1949-04-09, [전문 ID 905](https://archive.jeju43.info/document/905))**
 
 **발신**: 특별대사 무쵸(Ennor N. Muccio)  
 **수신**: 미국 국무장관(Secretary of State)  
