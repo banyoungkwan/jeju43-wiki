@@ -48,6 +48,13 @@
 - **엔티티 1건 신규**
   - `wiki/entities/2연대.md` (이중언어): 함병선 대령, 동북부 작전구역(조천·구좌·성산), 북촌사건 400명, 9연대와의 역할 분담표, 처벌 부재
 
+## [2026-04-08] ingest | 학술논문 소스 페이지 3건 (Kim Seong-nae · 이재승 · Birtle)
+
+- **소스 3건 신규**
+  - `wiki/sources/Kim-Seong-nae-기억과애도.md` (266줄): 김성례 논문 4편 통합 분석 — 2000·2004·2013·2019, 무속 애도·포스트메모리·의례 이론, Zotero PDF 3편 직접 분석
+  - `wiki/sources/이재승-2021-자결권.md` (320줄): 이재승 「제주4·3항쟁론과 자결권」(일감법학, 2021) — 국제법상 자결권 개념으로 "항쟁" 정명을 법적으로 정초, PDF 직접 분석
+  - `wiki/sources/Birtle-2006-COIN교리.md` (300줄): Birtle 「U.S. Army Counterinsurgency Doctrine 1942–1976」 — p.90 "indiscriminate slaying" 인용, 초토화작전을 COIN 교리 맥락에 위치, PDF 직접 분석
+
 ## [2026-04-08] bibliography | 제주4·3 연구 참고문헌 목록 구축
 
 - **참고문헌 페이지 1건 신규**: `wiki/references/참고문헌.md` (85건, Opus 분석)

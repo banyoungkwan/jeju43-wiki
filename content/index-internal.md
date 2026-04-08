@@ -27,6 +27,9 @@ private: true
 | wiki/sources/KMAG-활동보고.md | 주한미군사고문단(KMAG) 활동보고 — 제주4·3 관련 문서 | 1차자료/군사보고 | 1948–1950 |
 | wiki/sources/UN-A68-296-역사쓰기와교육.md | UN A/68/296 — 문화적 권리: 역사의 쓰기와 교육 (Farida Shaheed) | UN보고서/규범 | 2013 |
 | wiki/sources/UN-A-HRC-45-45-기념화와이행기정의.md | UN A/HRC/45/45 — 기념화: 이행기정의의 다섯 번째 기둥 (Fabián Salvioli) | UN보고서/규범 | 2020 |
+| wiki/sources/Kim-Seong-nae-기억과애도.md | Kim Seong-nae — 기억·애도·포스트메모리: 제주4·3 기억연구 4편 통합 | 학술논문/기억연구 | 2000–2019 |
+| wiki/sources/이재승-2021-자결권.md | 이재승 (2021) — 제주4·3항쟁론과 자결권 | 학술논문/법학 | 2021 |
+| wiki/sources/Birtle-2006-COIN교리.md | Birtle (2006) — U.S. Army Counterinsurgency Doctrine 1942–1976 | 단행본/군사사 | 2006 |
 
 ## Concepts
 
@@ -71,4 +74,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 35 | 소스: 16 | 참고문헌: 1 | 마지막 업데이트: 2026-04-08
+총 페이지: 38 | 소스: 19 | 참고문헌: 1 | 마지막 업데이트: 2026-04-08
