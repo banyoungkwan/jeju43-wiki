@@ -21,6 +21,10 @@ private: true
 | wiki/sources/jeju43-followup-eng.md | Jeju 4·3 Follow-up Investigations Report I (ENG) | 공식보고서 번역 | 2019 |
 | wiki/sources/화해와상생.md | [사료] 화해와 상생 — 제주4·3위원회 백서(2008) | 백서/2차자료 | 2008 |
 | wiki/sources/70주년-어둠에서빛으로.md | [사료] 제주4·3 70주년 — 어둠에서 빛으로 | 기념자료집/2차자료 | 2018 |
+| wiki/sources/미국기밀해제문서-개요.md | 미국 기밀해제 문서 — 제주4·3 관련 아카이브 개요 | 1차자료/아카이브 | 1945–1950 |
+| wiki/sources/G2-일일정보보고.md | USAFIK G-2 일일정보보고 — 제주4·3 관련 문서 | 1차자료/군사정보 | 1945–1949 |
+| wiki/sources/AMIK-외교문서.md | 주한미대사관(AMIK) 외교문서 — 제주4·3 관련 전문 | 1차자료/외교문서 | 1948–1950 |
+| wiki/sources/KMAG-활동보고.md | 주한미군사고문단(KMAG) 활동보고 — 제주4·3 관련 문서 | 1차자료/군사보고 | 1948–1950 |
 
 ## Concepts
 
@@ -43,6 +47,9 @@ private: true
 | wiki/entities/4-3위원회.md | 4·3위원회 | 기관 |
 | wiki/entities/재일제주인.md | 재일제주인 (在日濟州人) | 집단/디아스포라 |
 | wiki/entities/4-3평화공원.md | 4·3평화공원 / 평화기념관 | 장소/기관 |
+| wiki/entities/USAMGIK.md | 주한미군정청 (USAMGIK) | 기관/점령정부 |
+| wiki/entities/KMAG.md | 주한미군사고문단 (KMAG) | 기관/군사 |
+| wiki/entities/무쵸.md | 존 무쵸 (John J. Muccio) | 인물/외교관 |
 
 ## Timelines
 
@@ -56,4 +63,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 25 | 소스: 10 | 마지막 업데이트: 2026-04-08
+총 페이지: 32 | 소스: 14 | 마지막 업데이트: 2026-04-08
