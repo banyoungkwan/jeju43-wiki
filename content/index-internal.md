@@ -30,12 +30,15 @@ private: true
 | wiki/concepts/집단기억.md | 집단기억 | 기억, 이론 |
 | wiki/concepts/이행기정의.md | 이행기정의 | jeju43, 주제 |
 | wiki/concepts/화해.md | 화해 | 이행기정의, 기억 |
+| wiki/concepts/예비검속.md | 예비검속 | 국가폭력, 한국전쟁 |
+| wiki/concepts/초토화작전.md | 초토화작전 | 군사작전, 국가폭력 |
 
 ## Entities
 
 | 파일 | 이름 | 유형 |
 |------|------|------|
 | wiki/entities/9연대.md | 제9연대 | 기관 |
+| wiki/entities/2연대.md | 제2연대 | 기관 |
 | wiki/entities/서북청년단.md | 서북청년단 | 기관 |
 | wiki/entities/4-3위원회.md | 4·3위원회 | 기관 |
 | wiki/entities/재일제주인.md | 재일제주인 (在日濟州人) | 집단/디아스포라 |
@@ -53,4 +56,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 22 | 소스: 10 | 마지막 업데이트: 2026-04-08
+총 페이지: 25 | 소스: 10 | 마지막 업데이트: 2026-04-08

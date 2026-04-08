@@ -10,14 +10,15 @@ title: 제주4·3 아카이브 위키
 
 ## 둘러보기
 
-- [국가폭력](wiki/concepts/국가폭력) · [집단기억](wiki/concepts/집단기억) · [이행기정의](wiki/concepts/이행기정의) · [화해](wiki/concepts/화해)
+- [국가폭력](wiki/concepts/국가폭력) · [집단기억](wiki/concepts/집단기억) · [이행기정의](wiki/concepts/이행기정의) · [화해](wiki/concepts/화해) · [예비검속](wiki/concepts/예비검속) · [초토화작전](wiki/concepts/초토화작전)
 - [주요 연표 1947-1954](wiki/timelines/주요연표)
-- [4·3위원회](wiki/entities/4-3위원회) · [4·3평화공원](wiki/entities/4-3평화공원) · [재일제주인](wiki/entities/재일제주인)
+- [4·3위원회](wiki/entities/4-3위원회) · [9연대](wiki/entities/9연대) · [2연대](wiki/entities/2연대) · [서북청년단](wiki/entities/서북청년단) · [4·3평화공원](wiki/entities/4-3평화공원) · [재일제주인](wiki/entities/재일제주인)
 
 ## 최근 업데이트
 
 | 날짜 | 페이지 | 유형 |
 |------|--------|------|
+| 2026-04-08 | 진상조사보고서·추가보고서 소스 대폭 확장; 개념 2건·엔티티 1건 신규 | expand |
 | 2026-04-08 | 화해와상생(2008) · 70주년-어둠에서빛으로(2018) 인제스트 (소스 2건, 개념/엔티티 3건 신규) | ingest |
 | 2026-04-08 | 추가진상조사보고서(2019) 인제스트 (소스 2건, 개념/엔티티 3건 업데이트) | ingest |
 | 2026-04-08 | 진상조사보고서 외 5편 인제스트 (소스 6건, 엔티티/개념 4건 업데이트) | ingest |
