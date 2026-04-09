@@ -79,6 +79,8 @@ private: true
 | wiki/concepts/고문치사.md | 고문치사 (Torture Deaths) | 국가폭력, 인권 |
 | wiki/concepts/연좌제.md | 연좌제 (Guilt by Association) | 인권, 후유증 |
 | wiki/concepts/국가보안법.md | 국가보안법 (National Security Act) | 법률, 기억억압 |
+| wiki/concepts/군사재판.md | 군사재판 (Military Tribunals) | 법률, 국가폭력 |
+| wiki/concepts/재일제주인디아스포라.md | 재일제주인 디아스포라 (Jeju Diaspora in Japan) | 디아스포라, 냉전 |
 
 ## Entities
 
@@ -106,6 +108,7 @@ private: true
 |------|------|------|
 | wiki/events/3·1사건.md | 3·1사건 (1947) | 사건, 기폭제 |
 | wiki/events/평화협상.md | 4·28 평화협상 | 사건, 협상 |
+| wiki/events/유해발굴.md | 유해발굴 (Excavation and Identification) | 이행기정의, 기억 |
 
 ## Timelines
 
@@ -125,4 +128,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 70 | 소스: 51 | 참고문헌: 1 | 마지막 업데이트: 2026-04-08
+총 페이지: 73 | 소스: 51 | 참고문헌: 1 | 마지막 업데이트: 2026-04-09
