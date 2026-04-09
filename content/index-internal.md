@@ -73,6 +73,7 @@ private: true
 | wiki/concepts/예비검속.md | 예비검속 | 국가폭력, 한국전쟁 |
 | wiki/concepts/초토화작전.md | 초토화작전 | 군사작전, 국가폭력 |
 | wiki/concepts/재심.md | 재심 (수형인 명예회복) | 이행기정의, 법 |
+| wiki/concepts/왜곡과부인.md | 왜곡과 부인 (Distortion and Denial) | 기억정치, 법 |
 
 ## Entities
 
