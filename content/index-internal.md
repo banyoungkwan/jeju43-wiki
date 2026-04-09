@@ -74,6 +74,11 @@ private: true
 | wiki/concepts/초토화작전.md | 초토화작전 | 군사작전, 국가폭력 |
 | wiki/concepts/재심.md | 재심 (수형인 명예회복) | 이행기정의, 법 |
 | wiki/concepts/왜곡과부인.md | 왜곡과 부인 (Distortion and Denial) | 기억정치, 법 |
+| wiki/concepts/계엄령.md | 계엄령 (Martial Law) | 법률, 국가폭력 |
+| wiki/concepts/소개령.md | 소개령 (Forced Evacuation) | 국가폭력, 초토화 |
+| wiki/concepts/고문치사.md | 고문치사 (Torture Deaths) | 국가폭력, 인권 |
+| wiki/concepts/연좌제.md | 연좌제 (Guilt by Association) | 인권, 후유증 |
+| wiki/concepts/국가보안법.md | 국가보안법 (National Security Act) | 법률, 기억억압 |
 
 ## Entities
 
@@ -88,6 +93,19 @@ private: true
 | wiki/entities/USAMGIK.md | 주한미군정청 (USAMGIK) | 기관/점령정부 |
 | wiki/entities/KMAG.md | 주한미군사고문단 (KMAG) | 기관/군사 |
 | wiki/entities/무쵸.md | 존 무쵸 (John J. Muccio) | 인물/외교관 |
+| wiki/entities/남조선노동당.md | 남조선노동당 (SKWP) | 기관/정당 |
+| wiki/entities/대동청년단.md | 대동청년단 | 기관/청년단체 |
+| wiki/entities/인민위원회.md | 인민위원회 | 기관/자치 |
+| wiki/entities/제11연대.md | 제11연대 | 기관/군대 |
+| wiki/entities/제주도지구전투사령부.md | 제주도지구전투사령부 | 기관/군대 |
+| wiki/entities/국민보도연맹.md | 국민보도연맹 (Bodo League) | 기관/국가폭력 |
+
+## Events
+
+| 파일 | 사건 | 태그 |
+|------|------|------|
+| wiki/events/3·1사건.md | 3·1사건 (1947) | 사건, 기폭제 |
+| wiki/events/평화협상.md | 4·28 평화협상 | 사건, 협상 |
 
 ## Timelines
 
