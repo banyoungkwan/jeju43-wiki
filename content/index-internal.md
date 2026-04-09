@@ -72,6 +72,7 @@ private: true
 | wiki/concepts/화해.md | 화해 | 이행기정의, 기억 |
 | wiki/concepts/예비검속.md | 예비검속 | 국가폭력, 한국전쟁 |
 | wiki/concepts/초토화작전.md | 초토화작전 | 군사작전, 국가폭력 |
+| wiki/concepts/재심.md | 재심 (수형인 명예회복) | 이행기정의, 법 |
 
 ## Entities
 
