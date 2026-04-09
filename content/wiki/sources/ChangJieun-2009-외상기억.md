@@ -12,7 +12,7 @@ updated: 2026-04-08
 
 ## 저자 소개
 
-**Chang Jieun (창지은)** - 뉴욕대학교(New York University) 비교문학과(Department of Comparative Literature)에서 2009년 5월 박사학위를 취득했다. 지도교수는 Ulrich C. Baer. 학위 취득 당시 Henry M. MacCracken Fellowship, Anaïs Nin Memorial Fellowship, International Fellowship (American Association of University Women) 등의 지원을 받았으며, 학위 논문은 미국 박사학위 아카이브인 UMI(3365697)에 등재되어 있다.
+**Chang Jieun (장지은)** - 뉴욕대학교(New York University) 비교문학과(Department of Comparative Literature)에서 2009년 5월 박사학위를 취득했다. 지도교수는 Ulrich C. Baer. 학위 취득 당시 Henry M. MacCracken Fellowship, Anaïs Nin Memorial Fellowship, International Fellowship (American Association of University Women) 등의 지원을 받았으며, 학위 논문은 미국 박사학위 아카이브인 UMI(3365697)에 등재되어 있다.
 
 ## 논문 개요: 외상기억·증언·국가서사의 관계
 

@@ -81,6 +81,9 @@ private: true
 | wiki/concepts/국가보안법.md | 국가보안법 (National Security Act) | 법률, 기억억압 |
 | wiki/concepts/군사재판.md | 군사재판 (Military Tribunals) | 법률, 국가폭력 |
 | wiki/concepts/재일제주인디아스포라.md | 재일제주인 디아스포라 (Jeju Diaspora in Japan) | 디아스포라, 냉전 |
+| wiki/concepts/진상규명운동.md | 진상규명운동 (Truth-Finding Movement) | 진상규명, 시민운동 |
+| wiki/concepts/세계기록유산.md | 세계기록유산 (UNESCO Memory of the World) | 유네스코, 기록 |
+| wiki/concepts/정명.md | 정명 (Proper Naming) | 명칭논쟁, 기억정치 |
 
 ## Entities
 
@@ -101,6 +104,14 @@ private: true
 | wiki/entities/제11연대.md | 제11연대 | 기관/군대 |
 | wiki/entities/제주도지구전투사령부.md | 제주도지구전투사령부 | 기관/군대 |
 | wiki/entities/국민보도연맹.md | 국민보도연맹 (Bodo League) | 기관/국가폭력 |
+| wiki/entities/김달삼.md | 김달삼 (金達三) | 인물/무장대 |
+| wiki/entities/이덕구.md | 이덕구 | 인물/무장대 |
+| wiki/entities/김익렬.md | 김익렬 | 인물/9연대 |
+| wiki/entities/송요찬.md | 송요찬 | 인물/토벌대 |
+| wiki/entities/박진경.md | 박진경 | 인물/11연대 |
+| wiki/entities/문형순.md | 문형순 | 인물/경찰 |
+| wiki/entities/조병옥.md | 조병옥 | 인물/경무부장 |
+| wiki/entities/유재흥.md | 유재흥 | 인물/전투사령관 |
 
 ## Events
 
@@ -109,6 +120,10 @@ private: true
 | wiki/events/3·1사건.md | 3·1사건 (1947) | 사건, 기폭제 |
 | wiki/events/평화협상.md | 4·28 평화협상 | 사건, 협상 |
 | wiki/events/유해발굴.md | 유해발굴 (Excavation and Identification) | 이행기정의, 기억 |
+| wiki/events/무장봉기.md | 무장봉기 (1948.4.3 Armed Uprising) | 사건, 봉기 |
+| wiki/events/오라리방화사건.md | 오라리방화사건 (Ora-ri Arson Incident) | 사건, 우익청년단 |
+| wiki/events/북촌리학살.md | 북촌리학살 (Buk Chon-ri Massacre) | 사건, 학살 |
+| wiki/events/5·10선거.md | 5·10선거 (May 10 Election) | 사건, 선거 |
 
 ## Timelines
 
@@ -128,4 +143,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 73 | 소스: 51 | 참고문헌: 1 | 마지막 업데이트: 2026-04-09
+총 페이지: 88 | 소스: 51 | 참고문헌: 1 | 마지막 업데이트: 2026-04-09
