@@ -1,7 +1,7 @@
 @use "./base.scss";
 
-// ── 제주4·3 아카이브 위키 커스텀 스타일 ──────────────────
-// Cross-site design system: archive tone, #b5291f accent
+// ── Jeju 4·3 Knowledge Base — custom styles ──────────────────
+// Cross-site design system: neutral slate tone, scholarly feel
 
 // ── Global ──
 body {
@@ -59,7 +59,7 @@ article blockquote {
   }
 }
 
-// ── Links: subtle archive red ──
+// ── Links ──
 article a {
   color: var(--secondary);
   text-decoration-color: color-mix(in srgb, var(--secondary) 40%, transparent);
