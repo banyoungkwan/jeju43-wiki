@@ -9,7 +9,7 @@ lang: ko
 archive_url: https://archive.jeju43.info
 document_count: 68
 date_range: "1948-1950"
-publisher: 주한미사절단 (AMIK) / 주한미대사관
+publisher: "주한미사절단 (AMIK) / 주한미대사관"
 ---
 
 ## 개요
