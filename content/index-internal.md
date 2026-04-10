@@ -95,7 +95,7 @@ private: true
 |------|------|------|
 | wiki/entities/9연대.md | 제9연대 | 기관 |
 | wiki/entities/2연대.md | 제2연대 | 기관 |
-| wiki/entities/서북청년단.md | 서북청년단 | 기관 |
+| wiki/entities/서북청년회.md | 서북청년회 (서북청년단) | 기관 |
 | wiki/entities/4-3위원회.md | 4·3위원회 | 기관 |
 | wiki/entities/재일제주인.md | 재일제주인 (在日濟州人) | 집단/디아스포라 |
 | wiki/entities/4-3평화공원.md | 4·3평화공원 / 평화기념관 | 장소/기관 |

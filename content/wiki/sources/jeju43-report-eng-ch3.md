@@ -10,7 +10,7 @@ sources:
   - wiki/sources/진상조사보고서
 related:
   - wiki/entities/9연대
-  - wiki/entities/서북청년단
+  - wiki/entities/서북청년회
   - wiki/concepts/국가폭력
   - wiki/timelines/주요연표
 status: ingested
@@ -60,6 +60,6 @@ status: ingested
 ## 키워드 연결
 
 - [[9연대]]: 초토화 작전 주도, 송요찬 연대장·박진경 대령
-- [[서북청년단]]: 진압 과정 협력, 폭력 자행
+- [[서북청년회]]: 진압 과정 협력, 폭력 자행
 - [[국가폭력]]: 계엄령·즉결처분·대살(代殺) 등 법외 폭력 실태
 - [[주요연표]]: 3단계 전개 과정의 세부 일지

@@ -12,7 +12,7 @@ title: 제주4·3 아카이브 위키
 
 - [국가폭력](wiki/concepts/국가폭력) · [집단기억](wiki/concepts/집단기억) · [이행기정의](wiki/concepts/이행기정의) · [화해](wiki/concepts/화해) · [예비검속](wiki/concepts/예비검속) · [초토화작전](wiki/concepts/초토화작전)
 - [주요 연표 1947-1954](wiki/timelines/주요연표)
-- [4·3위원회](wiki/entities/4-3위원회) · [9연대](wiki/entities/9연대) · [2연대](wiki/entities/2연대) · [서북청년단](wiki/entities/서북청년단) · [4·3평화공원](wiki/entities/4-3평화공원) · [재일제주인](wiki/entities/재일제주인) · [USAMGIK](wiki/entities/USAMGIK) · [KMAG](wiki/entities/KMAG) · [무쵸](wiki/entities/무쵸)
+- [4·3위원회](wiki/entities/4-3위원회) · [9연대](wiki/entities/9연대) · [2연대](wiki/entities/2연대) · [서북청년회](wiki/entities/서북청년회) · [4·3평화공원](wiki/entities/4-3평화공원) · [재일제주인](wiki/entities/재일제주인) · [USAMGIK](wiki/entities/USAMGIK) · [KMAG](wiki/entities/KMAG) · [무쵸](wiki/entities/무쵸)
 
 ## 최근 업데이트
 

@@ -9,7 +9,7 @@ updated: 2026-04-08
 sources:
   - wiki/sources/진상조사보고서
 related:
-  - wiki/entities/서북청년단
+  - wiki/entities/서북청년회
   - wiki/concepts/국가폭력
   - wiki/timelines/주요연표
 status: ingested
@@ -52,6 +52,6 @@ status: ingested
 
 ## 키워드 연결
 
-- [[서북청년단]]: 1947년 이후 제주 파견, 탄압의 주요 행위자
+- [[서북청년회]]: 1947년 이후 제주 파견, 탄압의 주요 행위자
 - [[국가폭력]]: 미군정 하 경찰-서청의 구조적 폭력이 봉기를 촉발
 - [[주요연표]]: 1947-03-01부터 1948-04-03까지의 구체적 사건 일지
