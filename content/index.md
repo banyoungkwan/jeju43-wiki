@@ -6,7 +6,7 @@ title: 제주4·3 아카이브 위키
 
 > 1947년 3월 1일 발포사건부터 1954년 한라산 금족령 해제까지.
 
-이 위키는 1차 사료와 학술 연구를 바탕으로 LLM과 연구자가 함께 구축합니다.
+이 위키는 [Andrej Karpathy의 LLM wiki 아이디어](https://x.com/karpathy/status/2039805659525644595)를 바탕으로, [Youngkwan Ban](https://banyoungkwan.github.io)이 LLM을 활용하여 구축하고 있는 제주4·3 Knowledge Base(한/영)입니다. 1차 사료, 학술 연구, 미국 기밀해제 문서 등을 LLM이 마크다운 위키로 컴파일·확장하고, 연구자가 검증·편집합니다.
 
 ## 둘러보기
 
