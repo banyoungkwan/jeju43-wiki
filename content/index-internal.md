@@ -19,6 +19,7 @@ private: true
 | wiki/sources/glossary-eng.md | Jeju 4·3 Incident Report — English Glossary | 용어집 | 2003 |
 | wiki/sources/추가진상조사보고서.md | 제주4·3추가진상조사보고서 I | 공식보고서 | 2019 |
 | wiki/sources/jeju43-followup-eng.md | Jeju 4·3 Follow-up Investigations Report I (ENG) | 공식보고서 번역 | 2019 |
+| wiki/sources/이제사말햄수다.md | [사료] 이제사 말햄수다 — 최초의 4·3 구술 증언집 | 1차자료/증언집 | 1989 |
 | wiki/sources/화해와상생.md | [사료] 화해와 상생 — 제주4·3위원회 백서(2008) | 백서/2차자료 | 2008 |
 | wiki/sources/70주년-어둠에서빛으로.md | [사료] 제주4·3 70주년 — 어둠에서 빛으로 | 기념자료집/2차자료 | 2018 |
 | wiki/sources/미국기밀해제문서-개요.md | 미국 기밀해제 문서 — 제주4·3 관련 아카이브 개요 | 1차자료/아카이브 | 1945–1950 |
