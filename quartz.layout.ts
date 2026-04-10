@@ -8,7 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "제주4·3 아카이브": "https://archive.jeju43.info",
+      "제주4·3 포털": "https://jeju43.info",
+      "미국자료 아카이브": "https://archive.jeju43.info",
+      "뉴스 아카이브": "https://news.jeju43.info",
       GitHub: "https://github.com/banyoungkwan/jeju43-wiki",
     },
   }),

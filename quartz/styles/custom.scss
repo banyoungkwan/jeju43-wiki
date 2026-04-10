@@ -1,3 +1,223 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ── 제주4·3 아카이브 위키 커스텀 스타일 ──────────────────
+// Cross-site design system: archive tone, #b5291f accent
+
+// ── Global ──
+body {
+  letter-spacing: -0.01em;
+}
+
+// ── Page Title with Logo ──
+.page-title {
+  font-size: 1.5rem !important;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+
+  a {
+    color: var(--dark) !important;
+    text-decoration: none !important;
+    gap: 0.55rem;
+
+    &:hover {
+      color: var(--secondary) !important;
+    }
+  }
+}
+
+// ── Article Headings ──
+.article-title {
+  font-family: var(--headerFont);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+article {
+  h1, h2, h3 {
+    font-family: var(--headerFont);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.4rem; border-bottom: 1px solid var(--lightgray); padding-bottom: 0.4rem; }
+  h3 { font-size: 1.15rem; }
+}
+
+// ── Blockquote: archive-style left border ──
+article blockquote {
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
+  padding: 0.8rem 1.2rem;
+  margin: 1.2rem 0;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+  color: var(--darkgray);
+
+  p {
+    margin: 0.4rem 0;
+  }
+}
+
+// ── Links: subtle archive red ──
+article a {
+  color: var(--secondary);
+  text-decoration-color: color-mix(in srgb, var(--secondary) 40%, transparent);
+  text-underline-offset: 2px;
+
+  &:hover {
+    text-decoration-color: var(--secondary);
+  }
+}
+
+// ── Tags ──
+a.internal.tag-link {
+  background: var(--highlight);
+  color: var(--secondary);
+  border-radius: 3px;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.82rem;
+
+  &:hover {
+    background: var(--secondary);
+    color: var(--light);
+  }
+}
+
+// ── Explorer sidebar ──
+.explorer {
+  .folder-title, .file-title {
+    font-size: 0.88rem;
+  }
+}
+
+// ── Search ──
+button#search-button {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: transparent;
+  transition: border-color 0.2s;
+
+  &:hover {
+    border-color: var(--secondary);
+  }
+}
+
+// ── Graph View ──
+.graph > h3 {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gray);
+}
+
+// ── Table of Contents ──
+.toc > h3 {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gray);
+}
+
+.toc .depth-1 > a {
+  font-weight: 600;
+}
+
+// ── Backlinks ──
+.backlinks > h3 {
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gray);
+}
+
+// ── Footer ──
+footer {
+  border-top: 1px solid var(--lightgray);
+  padding-top: 1.2rem;
+  margin-top: 3rem;
+  opacity: 0.75;
+  font-size: 0.82rem;
+
+  a {
+    color: var(--secondary);
+  }
+}
+
+// ── Tables ──
+article table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+
+  th {
+    background: var(--lightgray);
+    font-weight: 600;
+    text-align: left;
+    padding: 0.6rem 0.8rem;
+    border-bottom: 2px solid var(--gray);
+  }
+
+  td {
+    padding: 0.5rem 0.8rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:hover td {
+    background: var(--highlight);
+  }
+}
+
+// ── Callouts (Obsidian-style) ──
+.callout {
+  border-radius: 6px;
+  border-left-width: 3px;
+}
+
+// ── Breadcrumbs ──
+.breadcrumb-container {
+  font-size: 0.82rem;
+  opacity: 0.7;
+}
+
+// ── Content meta (date, reading time) ──
+.content-meta {
+  font-size: 0.82rem;
+  color: var(--gray);
+}
+
+// ── Popover styling ──
+.popover {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+// ── Mobile adjustments ──
+@media all and (max-width: 800px) {
+  .page-title {
+    font-size: 1.25rem !important;
+  }
+
+  .page-logo {
+    width: 26px !important;
+    height: 26px !important;
+  }
+
+  article {
+    h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.2rem; }
+    h3 { font-size: 1.05rem; }
+  }
+}
+
+// ── Print styles ──
+@media print {
+  .left, .right, footer, .graph, .backlinks, .toc {
+    display: none !important;
+  }
+
+  article {
+    max-width: 100%;
+  }
+}
