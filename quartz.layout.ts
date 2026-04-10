@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "제주4·3 아카이브": "https://archive.jeju43.info",
+      GitHub: "https://github.com/banyoungkwan/jeju43-wiki",
     },
   }),
 }
@@ -41,7 +41,28 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        depth: 2,
+        linkDistance: 40,
+        fontSize: 0.5,
+        repelForce: 0.6,
+        centerForce: 0.5,
+        opacityScale: 2,
+        removeTags: [],
+        showTags: false,
+      },
+      globalGraph: {
+        depth: -1,
+        linkDistance: 40,
+        fontSize: 0.5,
+        repelForce: 0.1,
+        centerForce: 0.5,
+        opacityScale: 2,
+        removeTags: [],
+        showTags: false,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
