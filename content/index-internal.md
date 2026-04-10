@@ -12,10 +12,10 @@ private: true
 | 파일 | 제목 | 유형 | 연도 |
 |------|------|------|------|
 | wiki/sources/진상조사보고서.md | 제주4·3사건 진상조사보고서 | 공식보고서 | 2003 |
-| wiki/sources/jeju43-report-eng-preface-ch1.md | Jeju 4·3 Report — Preface & Chapter I (ENG) | 공식보고서 번역 | 2003 |
-| wiki/sources/jeju43-report-eng-ch2.md | Jeju 4·3 Report — Chapter II (ENG) | 공식보고서 번역 | 2003 |
-| wiki/sources/jeju43-report-eng-ch3.md | Jeju 4·3 Report — Chapter III (ENG) | 공식보고서 번역 | 2003 |
-| wiki/sources/jeju43-report-eng-ch4-5.md | Jeju 4·3 Report — Chapters IV–V & Appendices (ENG) | 공식보고서 번역 | 2003 |
+| wiki/sources/jeju43-report-eng-preface-ch1.md | ~~→ 진상조사보고서로 통합~~ | redirect | 2003 |
+| wiki/sources/jeju43-report-eng-ch2.md | ~~→ 진상조사보고서로 통합~~ | redirect | 2003 |
+| wiki/sources/jeju43-report-eng-ch3.md | ~~→ 진상조사보고서로 통합~~ | redirect | 2003 |
+| wiki/sources/jeju43-report-eng-ch4-5.md | ~~→ 진상조사보고서로 통합~~ | redirect | 2003 |
 | wiki/sources/glossary-eng.md | Jeju 4·3 Incident Report — English Glossary | 용어집 | 2003 |
 | wiki/sources/추가진상조사보고서.md | 제주4·3추가진상조사보고서 I | 공식보고서 | 2019 |
 | wiki/sources/jeju43-followup-eng.md | Jeju 4·3 Follow-up Investigations Report I (ENG) | 공식보고서 번역 | 2019 |
@@ -64,6 +64,45 @@ private: true
 | wiki/sources/김수열-2021-증언채록.md | 김수열 — 2021년 4·3진상규명증언채록 | 증언채록 | 2021 |
 | wiki/sources/43은말한다.md | 4·3은 말한다 — 제민일보 4·3취재반 6권 저작 | 1차사료/언론 | 1989–1993 |
 | wiki/sources/제주43유적.md | 제주4·3유적 I·II — 제주43연구소 828곳 전수조사 | 현장조사보고서 | 2020 |
+| wiki/sources/권귀숙-2001-사회적기억.md | 권귀숙 (2001) — 제주 4·3의 사회적 기억 | 학술논문/사회학 | 2001 |
+| wiki/sources/정용복-최명원-2025-저널리즘기억.md | 정용복·최명원 (2025) — 저널리즘에 투영된 사회적 기억: 제민일보 의미연결망 분석 | 학술논문/미디어 | 2025 |
+| wiki/sources/김석온-현혜정-2019-의례기억.md | 김석온·현혜정 (2019) — 직계부재 희생자의 의례와 기억의 연속 | 학술논문/기억연구 | 2019 |
+| wiki/sources/한경희-2020-민중항쟁.md | 한경희 (2020) — 민주화 이행기 4.3의 민중항쟁 재현 과정 | 학술논문/정치학 | 2020 |
+| wiki/sources/강창일-2003-언론사적의미.md | 강창일 (2003) — 뒤틀린 한국현대사와 제주4·3사건 | 학술논문/언론사 | 2003 |
+| wiki/sources/이관열-2003-보도의언론사적의미.md | 이관열 (2003) — 제주 4.3 사건 보도의 언론사적 의미 | 학술논문/언론사 | 2003 |
+| wiki/sources/김상봉-2019-폭력과윤리.md | 김상봉 (2019) — 폭력과 윤리: 4·3을 생각함 | 학술논문/철학 | 2019 |
+| wiki/sources/김용철-2009-경비대무장대협상.md | 김용철 (2009) — 경비대와 무장대 협상 연구 | 학위논문/역사학 | 2009 |
+| wiki/sources/김병록-2024-여성인권.md | 김병록 (2024) — 제주 4·3 사건과 인권: 여성 인권 보장 | 학술논문/법학 | 2024 |
+| wiki/sources/강경숙-2022-여성의삶.md | 강경숙 (2022) — 여성의 삶을 통해 본 4·3의 의미와 과제 | 학술논문/여성학 | 2022 |
+| wiki/sources/가족관계등록부-불일치-인권침해회복.md | 가족관계등록부 불일치 — 1세대 유족의 인권 침해와 회복 | 학술논문/법학 | — |
+| wiki/sources/이춘선-2017-미군정국제법.md | 이춘선 (2017) — 해방직후 미군정에 대한 국제법적 검토 | 학술논문/법학 | 2017 |
+| wiki/sources/안준형-2018-미군정국제법성격.md | 안준형 (2018) — 해방직후 주한미군정의 국제법적 성격 | 학술논문/법학 | 2018 |
+| wiki/sources/이재승-고호성-2016-이적죄기원.md | 이재승·고호성 (2016) — 이적죄의 기원 | 학술논문/법학 | 2016 |
+| wiki/sources/허선주-송은경-2020-민족주의국가폭력.md | 허선주·송은경 (2020) — 민족주의에 의한 국가폭력의 정당화: 델리·제주 비교 | 학술논문/비교정치 | 2020 |
+| wiki/sources/현명호-2011-분노와한용서.md | 현명호 (2011) — 분노와 한, 그리고 용서의 모색 | 학술논문/심리학 | 2011 |
+| wiki/sources/이영권-2002-제주도유력자.md | 이영권 (2002) — 제주도 유력자 집단의 변천과 성격 1945–1960 | 학술논문/사회학 | 2002 |
+| wiki/sources/정순임-2024-연좌제.md | 정순임 (2024) — 제주4·3연좌제 피해 연구 1950s–80s | 학위논문/역사학 | 2024 |
+| wiki/sources/박성호-2023-국가폭력-계엄.md | 박성호 (2023) — 제주4.3항쟁과 국가폭력: 계엄선포와 형벌권 불법성 | 학술논문/법학 | 2023 |
+| wiki/sources/무라카미나오코-지영임-2007-재일제주인.md | 나오코·지영임 (2007) — 에히메로 건너간 사람들: 영연방점령군 자료 | 학술논문/동아시아학 | 2007 |
+| wiki/sources/박이준-2007-미군정형무소탈옥.md | 박이준 (2007) — 미군정기 전국 주요 형무소 집단탈옥사건 연구 | 학술논문/역사학 | 2007 |
+| wiki/sources/메릴-2004-한국전쟁기원.md | 메릴 (2004) — 한국전쟁의 기원과 진실 | 단행본/번역서 | 2004 |
+| wiki/sources/양정심-2017-3ㆍ1기념대회.md | 양정심 (2017) — 1947년 제주3·1기념대회 주도세력에 대한 소고 | 학술논문/역사학 | 2017 |
+| wiki/sources/박동찬-2011-KMAG.md | 박동찬 (2011) — 주한미군사고문단(KMAG)의 한국전쟁 인식과 대응 | 학술논문/군사사 | 2011 |
+| wiki/sources/제민일보-기획3-4ㆍ3은말한다.md | 제민일보 기획3: 4·3은 말한다 — 6년간 취재 기록 | 기사/기획보도 | 1990–1993 |
+| wiki/sources/제주MBC-넉시오름-기자상.md | 제주MBC — 넉시오름의 세 가지 이야기 (방송기자상) | 방송/다큐 | 2013 |
+| wiki/sources/Ban-2023-victim-identification.md | Ban (2023) — Victim Identification as Memorial Practice | 학술논문/기억연구 | 2023 |
+| wiki/sources/Eperjesi-2019-caves.md | Eperjesi (2019) — Caves as Storied Matter | 학술논문/물질생태비평 | 2019 |
+| wiki/sources/Eperjesi-2022-imperialism.md | Eperjesi (2022) — U.S. Imperial Expansion and Jeju 4.3 | 학술논문/역사학 | 2022 |
+| wiki/sources/Park-2024-archives.md | Park (2024) — Survivor-Centered Archival Approaches to Jeju 4.3 | 학술논문/아카이브학 | 2024 |
+| wiki/sources/Ahn-2025-litigation.md | Ahn (2025) — Empowering Victimhood through Litigation | 학술논문/법학 | 2025 |
+| wiki/sources/Hauben-1958-peoples-republic.md | Hauben — People's Republic of Jeju Island 1945–1946 | 학술논문/역사학 | — |
+| wiki/sources/Kim-2025-resistance.md | Kim (2025) — Resisting the Occupation: Anti-Americanism on Jeju | 학술논문/역사학 | 2025 |
+| wiki/sources/Kim-2023-economic-impact.md | Kim (2023) — What Drove Jeju to the Coast? | 학술논문/경제지리 | 2023 |
+| wiki/sources/Okada-2015-nation.md | Okada (2015) — Nation Shaping After April 3 | 학술논문/역사학 | 2015 |
+| wiki/sources/Koh-Barclay-2007-autonomy.md | Koh·Barclay (2007) — Traveling through Autonomy and Subjugation | 학술논문/지역학 | 2007 |
+| wiki/sources/Kim-Jimin-2023-trauma.md | Kim Jimin (2023) — Psychological Health of Survivors | 학위논문/심리학 | 2023 |
+| wiki/sources/Ko-2015-truth-seeking-compliance.md | Ko (2015) — Truth-Seeking for Jeju and Compliance | 학술논문/이행기정의 | 2015 |
+| wiki/sources/Yon-Kim-2023-red-camellia-design.md | Yon·Kim (2023) — Red Camellia Symbolic Design | 학술논문/디자인 | 2023 |
 
 ## Concepts
 
@@ -120,6 +159,11 @@ private: true
 | wiki/entities/제민일보4·3취재반.md | 제민일보 4·3취재반 | 기관/언론 |
 | wiki/entities/하우스만.md | 제임스 하우스만 (James Hausman) | 인물/미군사고문관 |
 | wiki/entities/제주43연구소.md | 제주4·3연구소 (Jeju 4·3 Research Institute) | 기관/연구 |
+| wiki/entities/오용국.md | 오용국 (吳龍國) / Oh Yong-kuk | 인물/정치인 |
+| wiki/entities/브라운.md | 로스웰 H. 브라운 (Rothwell H. Brown) 대령 | 인물/미군 |
+| wiki/entities/슈.md | M. W. 슈 (M. W. Schewe) 중령 | 인물/미군 |
+| wiki/entities/딘.md | 윌리엄 F. 딘 (William F. Dean) 소장 | 인물/미군 |
+| wiki/entities/함병선.md | 함병선 (咸炳善) | 인물/토벌대 |
 
 ## Events
 
@@ -132,11 +176,12 @@ private: true
 | wiki/events/오라리방화사건.md | 오라리방화사건 (Ora-ri Arson Incident) | 사건, 우익청년단 |
 | wiki/events/북촌리학살.md | 북촌리학살 (Buk Chon-ri Massacre) | 사건, 학살 |
 | wiki/events/5·10선거.md | 5·10선거 (May 10 Election) | 사건, 선거 |
-| wiki/events/여순사건.md | 여순사건 (Yeosu-Suncheon Rebellion) | 사건, 군사 |
+| wiki/events/여순사건.md | 여순사건 (Yeosu-Suncheon Incident) | 사건, 군사 |
 | wiki/events/다랑쉬굴학살.md | 다랑쉬굴학살 (Darangshi Cave Massacre) | 사건, 학살 |
 | wiki/events/표선리학살.md | 표선리학살 (Pyoseon-ri Massacre) | 사건, 학살 |
 | wiki/events/정방폭포학살.md | 정방폭포·소남머리 학살 (Jeongbang Falls Massacre) | 사건, 학살 |
 | wiki/events/섯알오름학살.md | 섯알오름 학살 (Seotal Oreum Massacre) | 사건, 예비검속, 학살 |
+| wiki/events/3·10총파업.md | 3·10 총파업 (1947 March 10 General Strike) | 사건, 시민저항 |
 
 ## Timelines
 
@@ -154,6 +199,7 @@ private: true
 
 | 파일 | 제목 | 생성일 |
 |------|------|--------|
-| (분석 페이지 추가 후 기록) | | |
+| wiki/analyses/책임구조분석.md | 제주4·3 책임 구조 분석 (Responsibility Structure) | 2026-04-10 |
+| wiki/analyses/기억의정치연대기.md | 기억의 정치 연대기 (Politics of Memory Chronology) | 2026-04-10 |
 
-총 페이지: 101 | 소스: 53 | 참고문헌: 1 | 마지막 업데이트: 2026-04-10
+총 페이지: 146 | 소스: 89 (+ redirect 4) | 엔티티: 31 | 사건: 13 | 참고문헌: 1 | 마지막 업데이트: 2026-04-10

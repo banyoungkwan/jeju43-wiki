@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "none",
     },
     locale: "ko-KR",
-    baseUrl: "banyoungkwan.github.io/jeju43-wiki",
+    baseUrl: "kb.jeju43.info",
     ignorePatterns: ["private", "templates", ".obsidian", "raw"],
     defaultDateType: "modified",
     theme: {
