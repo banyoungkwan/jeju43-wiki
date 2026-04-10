@@ -90,6 +90,7 @@ KMAG는 단순 관찰자가 아니었다. 작전 계획 자문, 지휘관 평가
 - [[초토화작전]] — KMAG이 자문한 핵심 군사작전
 - [[예비검속]] — 이후 단계의 학살
 - [[KMAG-활동보고]] — 54건 문서 상세
+- [[하우스만]] — KMAG/PMAG 핵심 군사고문관, 한국군 작전 감독
 
 ---
 
@@ -126,3 +127,4 @@ KMAG's advisory role constituted structural participation in the suppression cam
 - [[9연대]] — Primary Korean unit under KMAG advisory supervision
 - [[초토화작전]] — The military campaign KMAG supervised
 - [[KMAG-활동보고]] — Full source page with 54 documents
+- [[하우스만]] — Key KMAG/PMAG advisor who oversaw Korean military operations

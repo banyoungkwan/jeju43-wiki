@@ -98,7 +98,7 @@ Birtle은 ROK 경찰과 9연대가 일본 식민지 통치 경험에서 배운 "
 - 민간인 강제 이동 및 "보호 마을(protected villages)"
 - 광범위한 초토화 및 보급선 차단
 - 겨울 대공세(Winter Punitive Operation, 1949-1950)
-- 심리전 및 선전(List to Me units, 국민회개연맹)
+- 심리전 및 선전: "Listen to Me" 확성기 부대, [[국민보도연맹]](National Guidance Alliance) [**편집 주: Birtle 원문은 "Listen to Me units"(확성기 심리전 부대)와 국민보도연맹을 COIN의 심리전·전향 프로그램 맥락에서만 언급한다. 그러나 보도연맹은 1950년 한국전쟁 발발 직후 가입자 명부가 즉결 처형의 '살생부(kill list)'로 전용되어, 전국적으로 수만~수십만 명의 민간인 학살을 촉발한 기제가 되었다. 제주에서만 최소 566명이 보도연맹·예비검속 학살로 희생되었다(추가진상조사보고서, 2019). Birtle은 이 결정적 후속 결과를 전혀 다루지 않는다 — 아래 '비판적 한계' 참조.**]
 
 ### 2. "강경책" vs. "온건책" 논쟁의 사례
 
@@ -161,6 +161,32 @@ Birtle은 미군의 공식 입장을 반영:
 - **정당화**: Communist 지하조직 격퇴, 주민 "보호" 명목
 - **한계 인식**: 1950년대 중반 "개혁" 정책으로 전환
 - **교훈**: 나중의 "hearts and minds" 강조로 연결
+
+---
+
+## 비판적 한계 | Critical Limitations
+
+Birtle의 저작은 미군 공식 군사사로서 1차 자료적 가치가 높으나, 다음과 같은 구조적 한계가 있다:
+
+### 1. 국민보도연맹: COIN 도구에서 살생부로의 전용을 누락
+
+Birtle은 [[국민보도연맹]](National Guidance Alliance)을 대반란전의 심리전·전향 프로그램, 즉 "온건책(soft approach)"의 일환으로만 기술한다. 그러나 보도연맹의 가장 중대한 역사적 결과 — 한국전쟁 발발 직후 가입자 명부가 [[예비검속]] 즉결 처형의 근거로 전용되어 전국적으로 수만~수십만 명의 민간인이 학살된 사실 — 을 **전혀 언급하지 않는다**.
+
+이는 단순한 누락이 아니라 구조적 맹점이다. COIN 교리의 "성공"을 평가하면서, 그 교리가 생산한 감시·분류 인프라가 이후 더 큰 규모의 학살 기제로 재활용된 과정을 추적하지 않는 것은, 대반란전의 장기적 인권 비용을 체계적으로 과소평가하는 결과를 낳는다. 제주의 경우, 4·3 초토화 시기(1948~49)에 구축된 요시찰 분류 체계가 한국전쟁 개전과 동시에 [[섯알오름학살|섯알오름]](218명)·[[정방폭포학살|정방폭포]](250명) 등의 즉결 처형으로 직결되었다.
+
+**Birtle fails to mention the most consequential outcome of the Bodo League: that its membership rolls were repurposed as kill lists for summary execution following the outbreak of the Korean War. Nationally, tens of thousands to hundreds of thousands of civilians were massacred; on Jeju alone, at least 566 confirmed victims were executed under preventive detention. A COIN history that evaluates the "success" of pacification tools without tracing how those same tools enabled subsequent mass atrocities systematically underestimates the long-term human rights costs of counterinsurgency.**
+
+### 2. 민간인 피해의 규모 축소
+
+Birtle은 "약 100,000명이 소개되었다(relocated approximately 100,000 people)"고 기술하면서도, 학살 규모에 대한 구체적 수치를 제시하지 않는다. [[진상조사보고서]](2003)가 확인한 14,028명(신고 기준), 추정 25,000~30,000명이라는 희생자 규모는 미군 공식 군사사에서 완전히 부재한다.
+
+### 3. "성공" 프레임의 문제
+
+"Rhee's success had come early in terms of lives, resources, and military readiness"(p. 98)라는 서술은, 30,000명 규모의 민간인 학살을 "대가(cost)"로 추상화하고 이를 군사적 "성공"의 부수적 비용으로 위치시킨다. 이는 가해자 관점의 전형적 서사 구조로, 피해 민간인의 경험은 분석의 대상이 아닌 통계적 부주(附註)에 머문다.
+
+### 4. 일본 식민 통치 기법의 연속성에 대한 미흡한 분석
+
+Birtle은 ROK 경찰과 군이 "일본 식민지 통치 경험에서 배운 포위와 초토화 전술"을 적용했음을 인정하면서도(p. 93-94), 이것이 일본 제국주의 폭력의 구조적 연속이라는 점에 대한 비판적 분석을 결여한다. 한국 경찰의 상당수가 일본 식민경찰 출신이라는 인적 연속성, 그리고 미군이 이를 인지하면서도 활용한 구조적 공모의 문제는 교리사적 서술에서 배제되어 있다.
 
 ---
 

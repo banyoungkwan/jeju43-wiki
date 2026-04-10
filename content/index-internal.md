@@ -61,6 +61,8 @@ private: true
 | wiki/sources/김창후-2021-증언채록.md | 김창후 — 2021년 4·3진상규명증언채록 (2편) | 증언채록 | 2021 |
 | wiki/sources/송승문-2021-증언채록.md | 송승문 — 2021년 4·3진상규명증언채록 | 증언채록 | 2021 |
 | wiki/sources/김수열-2021-증언채록.md | 김수열 — 2021년 4·3진상규명증언채록 | 증언채록 | 2021 |
+| wiki/sources/43은말한다.md | 4·3은 말한다 — 제민일보 4·3취재반 6권 저작 | 1차사료/언론 | 1989–1993 |
+| wiki/sources/제주43유적.md | 제주4·3유적 I·II — 제주43연구소 828곳 전수조사 | 현장조사보고서 | 2020 |
 
 ## Concepts
 
@@ -84,6 +86,8 @@ private: true
 | wiki/concepts/진상규명운동.md | 진상규명운동 (Truth-Finding Movement) | 진상규명, 시민운동 |
 | wiki/concepts/세계기록유산.md | 세계기록유산 (UNESCO Memory of the World) | 유네스코, 기록 |
 | wiki/concepts/정명.md | 정명 (Proper Naming) | 명칭논쟁, 기억정치 |
+| wiki/concepts/잃어버린마을.md | 잃어버린 마을 (Lost Villages) | 초토화, 유적, 기억 |
+| wiki/concepts/43성.md | 4·3성 (4·3 Fortifications) | 유적, 강제동원 |
 
 ## Entities
 
@@ -112,6 +116,9 @@ private: true
 | wiki/entities/문형순.md | 문형순 | 인물/경찰 |
 | wiki/entities/조병옥.md | 조병옥 | 인물/경무부장 |
 | wiki/entities/유재흥.md | 유재흥 | 인물/전투사령관 |
+| wiki/entities/제민일보4·3취재반.md | 제민일보 4·3취재반 | 기관/언론 |
+| wiki/entities/하우스만.md | 제임스 하우스만 (James Hausman) | 인물/미군사고문관 |
+| wiki/entities/제주43연구소.md | 제주4·3연구소 (Jeju 4·3 Research Institute) | 기관/연구 |
 
 ## Events
 
@@ -124,6 +131,11 @@ private: true
 | wiki/events/오라리방화사건.md | 오라리방화사건 (Ora-ri Arson Incident) | 사건, 우익청년단 |
 | wiki/events/북촌리학살.md | 북촌리학살 (Buk Chon-ri Massacre) | 사건, 학살 |
 | wiki/events/5·10선거.md | 5·10선거 (May 10 Election) | 사건, 선거 |
+| wiki/events/여순사건.md | 여순사건 (Yeosu-Suncheon Rebellion) | 사건, 군사 |
+| wiki/events/다랑쉬굴학살.md | 다랑쉬굴학살 (Darangshi Cave Massacre) | 사건, 학살 |
+| wiki/events/표선리학살.md | 표선리학살 (Pyoseon-ri Massacre) | 사건, 학살 |
+| wiki/events/정방폭포학살.md | 정방폭포·소남머리 학살 (Jeongbang Falls Massacre) | 사건, 학살 |
+| wiki/events/섯알오름학살.md | 섯알오름 학살 (Seotal Oreum Massacre) | 사건, 예비검속, 학살 |
 
 ## Timelines
 
@@ -143,4 +155,4 @@ private: true
 |------|------|--------|
 | (분석 페이지 추가 후 기록) | | |
 
-총 페이지: 88 | 소스: 51 | 참고문헌: 1 | 마지막 업데이트: 2026-04-09
+총 페이지: 101 | 소스: 53 | 참고문헌: 1 | 마지막 업데이트: 2026-04-10
