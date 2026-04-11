@@ -24,7 +24,8 @@ from typing import Dict, List, Set, Tuple
 import yaml
 
 WIKI_ROOT = Path(__file__).parent.parent / "content" / "wiki"
-OUTPUT_HTML = WIKI_ROOT / "references" / "knowledge-graph.html"
+# HTML goes to quartz/static/ so it's served as-is (Quartz Assets plugin strips .html extensions)
+OUTPUT_HTML = Path(__file__).parent.parent / "quartz" / "static" / "knowledge-graph.html"
 OUTPUT_MD = WIKI_ROOT / "references" / "knowledge-graph.md"
 
 TYPE_COLORS = {
@@ -418,11 +419,17 @@ updated: 2026-04-11
 
 # 지식 그래프 / Knowledge Graph
 
-제주4·3 위키의 인물, 사건, 개념, 조직 페이지 간의 연결을 시각화한 인터랙티브 그래프입니다.
+제주4·3 위키의 인물, 사건, 개념, 조직 페이지 간의 연결을 시각화한 인터랙티브 그래프입니다. 노드를 클릭하면 해당 페이지 링크가 표시되고, 검색과 필터 기능을 사용할 수 있습니다.
 
-An interactive visualization of connections between people, events, concepts, and organizations in the Jeju 4·3 Knowledge Base.
+An interactive visualization of connections between people, events, concepts, and organizations in the Jeju 4·3 Knowledge Base. Click nodes to see page links; use search and filters to explore.
 
-[**→ 그래프 보기 / View Graph**](./knowledge-graph.html)
+<div style="position:relative;width:100%;padding-top:75%;margin:1em 0;border:1px solid var(--lightgray);border-radius:8px;overflow:hidden;">
+<iframe src="/static/knowledge-graph.html" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" loading="lazy" title="제주4·3 지식 그래프"></iframe>
+</div>
+
+<p style="text-align:center;font-size:0.85em;color:var(--gray);">
+<a href="/static/knowledge-graph.html" target="_blank">전체 화면으로 보기 / Open full screen ↗</a>
+</p>
 
 ## 통계 / Statistics
 
