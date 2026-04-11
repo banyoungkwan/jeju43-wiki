@@ -1,6 +1,6 @@
 ---
 title: "Kim (2023) — What Drove Jeju to the Coast? The Enduring Impacts of the Jeju 4.3 Massacre"
-aliases: [Kim, economic impact, long-term effects, coastal displacement]
+aliases: [Kim-2023 economic, 경제적영향, 해안 강제이주]
 tags: [소스, 학술논문, 경제영향, 인구이동, 장기영향분석]
 lang: bilingual
 type: 학술논문

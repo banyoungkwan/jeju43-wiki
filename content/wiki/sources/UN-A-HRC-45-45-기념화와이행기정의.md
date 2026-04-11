@@ -134,11 +134,11 @@ url: "https://docs.un.org/en/A/HRC/45/45"
 
 ### 관련 항목
 
-- [[wiki/sources/UN-A68-296-역사쓰기와교육]] — 선행 보고서 (A/68/296, 2013)
-- [[wiki/concepts/이행기정의]] — 이행기정의 4+1 기둥 체계
-- [[wiki/concepts/화해]] — 화해 과정과 기억의 관계
-- [[wiki/entities/4-3평화공원]] — 기념화의 물적 실현
-- [[wiki/sources/ICTJ-기념화와민주주의]] — ICTJ 2007 기념화 보고서 (비교 사례)
+- [[UN-A68-296-역사쓰기와교육]] — 선행 보고서 (A/68/296, 2013)
+- [[이행기정의]] — 이행기정의 4+1 기둥 체계
+- [[화해]] — 화해 과정과 기억의 관계
+- [[4-3평화공원]] — 기념화의 물적 실현
+- [[ICTJ-기념화와민주주의]] — ICTJ 2007 기념화 보고서 (비교 사례)
 
 ---
 
@@ -182,7 +182,7 @@ The 4·3 Peace Park, the Truth and Reconciliation Committee process, the 2019 re
 
 ### See Also
 
-- [[wiki/sources/UN-A68-296-역사쓰기와교육]] — Predecessor report (A/68/296, 2013)
-- [[wiki/concepts/이행기정의]] — Transitional justice framework
-- [[wiki/entities/4-3평화공원]] — Physical realization of memorialization
-- [[wiki/sources/ICTJ-기념화와민주주의]] — ICTJ 2007 comparative cases
+- [[UN-A68-296-역사쓰기와교육]] — Predecessor report (A/68/296, 2013)
+- [[이행기정의]] — Transitional justice framework
+- [[4-3평화공원]] — Physical realization of memorialization
+- [[ICTJ-기념화와민주주의]] — ICTJ 2007 comparative cases

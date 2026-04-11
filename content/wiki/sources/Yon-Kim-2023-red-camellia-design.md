@@ -1,6 +1,6 @@
 ---
 title: "Eung-Joo Yon & Min-Soo Kim (2023) — Symbolic Design of Red Camellia from Jeju April 3rd Incident in South Korea"
-aliases: [Yon, Kim, red camellia, 동백, symbolic design, design history, visual culture]
+aliases: [Yon-Kim-2023 camellia, 동백 시각문화, red camellia design]
 tags: [소스, 학술논문, 영문논문, 디자인, 시각문화, 기호학, 동백]
 lang: bilingual
 type: 학술논문

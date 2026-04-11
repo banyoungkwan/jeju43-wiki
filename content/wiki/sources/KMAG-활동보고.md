@@ -1,12 +1,12 @@
 ---
 title: "[사료] 주한미육군 군사고문단(KMAG) 활동보고 — 제주4·3 관련"
-aliases: [KMAG, 군사고문단, 로버츠 보고서, PMAG, 미군 고문]
+aliases: [KMAG 활동보고, KMAG 문서, 로버츠 보고서, PMAG 활동]
 tags: [1차사료, 미군정, KMAG, 군사고문단, 로버츠, 진상규명, 군사 지원]
 type: primary
 created: 2026-04-08
 updated: 2026-04-08
 lang: ko
-archive_url: https://archive.jeju43.info
+archive_url: "https://archive.jeju43.info"
 document_count: 54
 date_range: "1948-1950"
 publisher: "주한미육군 군사고문단 (KMAG / PMAG)"

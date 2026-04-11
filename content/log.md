@@ -299,3 +299,116 @@
   - `진상규명운동.md`: 제주43연구소·다랑쉬굴 See Also 추가
 - **index-internal.md**: 소스 +1, 개념 +2, 엔티티 +1, 사건 +2, 총 페이지 94 → 101
 - **주요 통계**: 유적 597(2004)→828(2019), 잃어버린 마을 108→122, 4·3성 65→109, 학살터 153→174, 주둔지 83→132, 추모공간 0→32(신설)
+
+## [2026-04-10] ingest | 신규 논문 대량 인제스트 (~40편)
+
+- 4개 병렬 에이전트로 PDF → 마크다운 소스 변환
+  - 배치1: 국문 기억/미디어 논문 (권귀숙, 정용복·최명원, 김석온·현혜정, 한경희, 강창일, 이관열, 김상봉 등)
+  - 배치2: 국문 법/인권 논문 (김병록, 강경숙, 이춘선, 안준형, 이재승·고호성, 정순임, 박성호 등)
+  - 배치3: 영문 논문 (Ban 2023, Eperjesi 2019/2022, Park 2024, Ahn 2025, Kim 2025, Okada 2015 등)
+  - 배치4: 기타/미디어 (제민일보 기획, 제주MBC 넉시오름, 메릴 2004, 박동찬 2011, 양정심 2017 등)
+- **신규 소스 39건**, 중복 1건 해결 (김용철-2009-경비대협상 → redirect)
+- 348782.pdf는 제주4·3 무관 확인, 제외
+
+## [2026-04-10] create | 엔티티·이벤트 6건 신규
+
+- 엔티티 5건: 오용국, 브라운(Brown), 슈(Schewe), 딘(Dean), 함병선
+- 이벤트 1건: 3·10총파업
+- 미국자료 아카이브(parsed_vol07-11.json) 활용: 오용국 득표수 12,888표, 슈 감찰보고, 브라운 작전지시
+
+## [2026-04-10] expand | 군사재판 보강
+
+- 추가진상조사(2019) 보완사항 섹션 추가
+- 재심 데이터: 2,033건 무죄 (2025.11 기준), 2019 제주지법 판결, 2021 특별법 개정
+
+## [2026-04-10] fix | 서북청년단 → 서북청년회 정명
+
+- 엔티티 이름 변경, 전체 위키 24개 파일 위키링크 일괄 수정
+
+## [2026-04-10] create | 이제사말햄수다(1989) 소스 + 제주43연구소 보강
+
+- 이제사말햄수다 소스 엔트리 신규 작성
+- 제주43연구소 엔티티 대폭 보강: 창립 과정, 증언채록, 유적조사, 다랑쉬굴 발굴, 인물 11인
+
+## [2026-04-11] merge | 진상조사보고서 영문 통합
+
+- 4개 영문 챕터 파일(preface-ch1, ch2, ch3, ch4-5) → redirect 전환
+- 진상조사보고서.md 본문에 English 섹션(Chapters I-V) 통합
+- index-internal.md: 소스 89(+redirect 4)로 조정
+
+## [2026-04-11] output | 분석 페이지 2건 신규 (analyses 폴더 최초 사용)
+
+- wiki/analyses/책임구조분석.md: 명령체계도, 시기별 책임(3기), 보고서 원문 표현과 편집자 해석 구분
+- wiki/analyses/기억의정치연대기.md: 8단계 시기구분, 7명 학자별 해석 프레임, 미해결 긴장 5가지
+
+## [2026-04-11] fix | 여순사건 영문명칭 통일
+
+- "Yeosu-Suncheon Rebellion" → "Yeosu-Suncheon Incident" (7개 파일)
+- 학술 논쟁 맥락의 일반 용어 "rebellion"은 유지
+
+## [2026-04-11] config | 도메인 변경 kb.jeju43.info
+
+- quartz.config.ts baseUrl → kb.jeju43.info
+- deploy.yml에 CNAME 자동 생성 스텝 추가
+- Porkbun DNS CNAME: kb → banyoungkwan.github.io (TTL 600)
+- GitHub Pages Custom domain + Enforce HTTPS 설정 완료
+
+## [2026-04-11] config | Graph View 확장 + Footer 교체
+
+- quartz.layout.ts: localGraph depth 1→2, globalGraph depth -1(전체)
+- Footer: Quartz 기본 → archive.jeju43.info + 프로젝트 GitHub
+
+## [2026-04-11] fix | 위키링크 파싱 충돌 수정 44건
+
+- `[[link]](text)` → `[[link|link(text)]]` 변환
+- Quartz가 markdown `[text](url)`로 오인하여 404 발생하던 문제 전체 해결
+
+## [2026-04-11] fix | 함병선.md 보고서 원문 표현 구분
+
+- "2차 책임" 편집자 용어 제거, 보고서 원문("미군정 및 주한미군사고문단의 책임") 반영
+- 편집 주 추가: 보고서는 직책 기준 지칭, "2차 책임" 미사용 명시
+
+## [2026-04-11] config | 프론트페이지 프로젝트 소개 추가
+
+- Karpathy LLM wiki 아이디어 출처 링크
+- Youngkwan Ban(banyoungkwan.github.io) 프로젝트 소개
+
+## [2026-04-11] output | Karpathy 원안 대비 진단 + 커뮤니티 제안 검토
+
+- 조사: Karpathy idea file(Gist), LLM Wiki v2, Graphify, 커뮤니티 120+ 코멘트
+- 진단: log.md 기존재 확인(→업데이트), lint 미실행, 검색 미개선
+- 6개 개선 제안: log.md 보강 → lint pass → confidence 태깅 → 검색 → graph → fine-tuning
+
+## [2026-04-11] lint | log.md 구조 보강
+
+- 기존 log.md에 04-10~04-11 세션 내역 추가 (14개 엔트리)
+- Karpathy 원안의 파싱 규칙 `## [YYYY-MM-DD] type | title` 형식 확인·유지
+
+## [2026-04-11] lint | YAML frontmatter 일괄 수정
+
+- 147개 파일에서 aliases/tags 필드 over-quoting 회귀 수정 (289 lines)
+- 18개 파일에서 title 등 특수문자 포함 필드 YAML 인용 수정
+- 21개 중복 alias 충돌 해소 — entity/concept 페이지는 범용 alias 유지, source 페이지는 구체화
+- 68개 파일에서 confidence 필드 frontmatter 내부로 이동 (frontmatter 밖에 있던 오류 수정)
+
+## [2026-04-11] enhance | 신뢰도(confidence) 체계 설계·적용
+
+- confidence-system.md 참조 문서 작성 (6등급: confirmed/well-sourced/sourced/reported/contested/unverified)
+- 진상조사보고서·추가진상조사보고서를 사실관계 기준으로 설정
+- 67개 wiki content 페이지에 confidence 메타데이터 태깅 (confirmed 53, reported 12, contested 2)
+
+## [2026-04-11] tool | CLI 검색 도구 (tools/search.py)
+
+- 정규식 기반 콘텐츠 검색 (제목·alias·본문, 점수 정렬)
+- 메타데이터 검색 (--field confidence confirmed, --tag 국가폭력)
+- 고아 페이지 탐지 (--orphans)
+- 위키 통계 (--stats): 176 pages, 1.2M words, 959 wiki links
+- JSON 출력 지원 (--json)
+
+## [2026-04-11] viz | 지식 그래프 시각화 (tools/graph.py)
+
+- D3.js 포스 그래프 생성: 67 nodes, 589 connections
+- 4가지 연결 탐지: wiki links, 공유 태그, 공동인용, 텍스트 언급
+- 유형별 색상 코딩 (인물·사건·개념·조직·군부대·분석·연표)
+- 검색, 유형 필터, 호버 정보, 클릭 이동 기능
+- kb.jeju43.info 다크 테마 매칭

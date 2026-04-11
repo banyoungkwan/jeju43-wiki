@@ -6,7 +6,7 @@ type: primary
 created: 2026-04-08
 updated: 2026-04-08
 lang: ko
-archive_url: https://archive.jeju43.info
+archive_url: "https://archive.jeju43.info"
 document_count: 68
 date_range: "1948-1950"
 publisher: "주한미사절단 (AMIK) / 주한미대사관"

@@ -1,6 +1,6 @@
 ---
 title: "Eperjesi (2019) — Caves as Storied Matter: The Jeju April 3 Events and U.S. Imperialism"
-aliases: [Eperjesi, John Eperjesi, caves, material turn, ecocriticism]
+aliases: [Eperjesi-2019 caves, 동굴과물질성, material turn]
 tags: [소스, 학술논문, 미제국주의, 물질성, 동굴, 생태비평]
 lang: bilingual
 type: 학술논문

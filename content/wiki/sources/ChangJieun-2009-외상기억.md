@@ -61,15 +61,15 @@ updated: 2026-04-08
 ## 위키 연계
 
 ### 개념적 연계
-- [[wiki/concepts/집단기억]] — 제주 4·3의 사회적 기억 형성 메커니즘
-- [[wiki/concepts/외상과_기억]] — Trauma Studies와의 이론적 연결
-- [[wiki/concepts/증언과_책임]] — 증인 증언의 윤리적 의미
-- [[wiki/concepts/국가폭력]] — 국민국가 수립과 내부 타자화
+- [[집단기억]] — 제주 4·3의 사회적 기억 형성 메커니즘
+- [[외상과_기억]] — Trauma Studies와의 이론적 연결
+- [[증언과_책임]] — 증인 증언의 윤리적 의미
+- [[국가폭력]] — 국민국가 수립과 내부 타자화
 
 ### 관련 소스
-- [[wiki/sources/Kim-Seong-nae-기억과애도]] — 제주 4·3의 민간 기억과 애도의식
-- [[wiki/sources/Kim-Tongman-무명옷]] — Chang이 상세 분석하는 증언영화
-- [[wiki/sources/Cheju43-NationalCommission]] — 2003년 국가위원회 조사보고서
+- [[Kim-Seong-nae-기억과애도]] — 제주 4·3의 민간 기억과 애도의식
+- [[Kim-Tongman-무명옷]] — Chang이 상세 분석하는 증언영화
+- [[Cheju43-NationalCommission]] — 2003년 국가위원회 조사보고서
 
 ### 이론가들
 - [[Derrida-trace]] — 흔적(trace)의 개념과 증언

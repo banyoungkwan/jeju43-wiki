@@ -1,6 +1,6 @@
 ---
 title: "Jung & Kim (2018) — Lifetime Suicidal Attempts and Current Suicidal Risk in Aging Survivors"
-aliases: [Jung Young Eun, 생존자 자살, suicidal risk, PTSD]
+aliases: [JungKim-2018, 생존자 자살위험, 장기추적]
 tags: [소스, 학술논문, 생존자, 트라우마, 자살, 심리, 영문]
 lang: bilingual
 type: 학술논문

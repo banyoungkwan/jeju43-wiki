@@ -1,6 +1,6 @@
 ---
 title: "Eperjesi (2022) — The Jeju April 3 Incident and United States Imperialism"
-aliases: [Eperjesi, US imperialism, Cold War, postcolonial studies]
+aliases: [Eperjesi-2022 imperialism, 미제국주의, 냉전]
 tags: [소스, 학술논문, 미제국주의, 냉전, 탈식민지적 분석]
 lang: bilingual
 type: 학술논문

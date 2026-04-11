@@ -121,15 +121,15 @@ Birtle은 제주도 경험이 이후 COIN 이론에 미친 영향을 암시:
 
 ## 4·3 위키 관련 항목 | Related Wiki Articles
 
-- [[wiki/concepts/초토화작전]]
-- [[wiki/concepts/대반란전-교리]]
-- [[wiki/concepts/강제이동-및-수용소]]
-- [[wiki/entities/KMAG]]
-- [[wiki/entities/9연대]]
-- [[wiki/entities/국방부-경찰]]
-- [[wiki/entities/USAMGIK]]
-- [[wiki/events/1948-1949-제주도-작전]]
-- [[wiki/sources/Merrill-2006-Cheju-rebellion]]
+- [[초토화작전]]
+- [[대반란전-교리]]
+- [[강제이동-및-수용소]]
+- [[KMAG]]
+- [[9연대]]
+- [[국방부-경찰]]
+- [[USAMGIK]]
+- [[1948-1949-제주도-작전]]
+- [[Merrill-2006-Cheju-rebellion]]
 
 ---
 

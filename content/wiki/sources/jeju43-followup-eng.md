@@ -1,5 +1,5 @@
 ---
-title: Jeju 4·3 Incident Follow-up Investigations Report I (ENG)
+title: "Jeju 4·3 Incident Follow-up Investigations Report I (ENG)"
 aliases: [jeju43-followup-eng, Follow-up Investigations Report]
 tags: [사료, 이행기정의, 국가폭력]
 type: source

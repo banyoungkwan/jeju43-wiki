@@ -1,6 +1,6 @@
 ---
 title: "Kim (2025) — Resisting the Occupation: The Jeju April Third Uprising of 1948 and the Origin of Anti-Americanism on Jeju Island"
-aliases: [Kim, Jaewon Kim, resistance, anti-Americanism, USAMGIK]
+aliases: [Jaewon Kim-2025, 저항, 반미주의]
 tags: [소스, 학위논문, 저항, 반미주의, 식민주의, 냉전]
 lang: bilingual
 type: 학위논문
