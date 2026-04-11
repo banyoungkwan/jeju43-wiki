@@ -114,6 +114,7 @@ private: true
 | wiki/concepts/화해.md | 화해 | 이행기정의, 기억 |
 | wiki/concepts/예비검속.md | 예비검속 | 국가폭력, 한국전쟁 |
 | wiki/concepts/초토화작전.md | 초토화작전 | 군사작전, 국가폭력 |
+| wiki/concepts/대반란전교리.md | 대반란전 교리 (COIN Doctrine) | 군사사, 미국, 냉전 |
 | wiki/concepts/재심.md | 재심 (수형인 명예회복) | 이행기정의, 법 |
 | wiki/concepts/왜곡과부인.md | 왜곡과 부인 (Distortion and Denial) | 기억정치, 법 |
 | wiki/concepts/계엄령.md | 계엄령 (Martial Law) | 법률, 국가폭력 |
@@ -199,7 +200,11 @@ private: true
 
 | 파일 | 제목 | 생성일 |
 |------|------|--------|
-| wiki/analyses/책임구조분석.md | 제주4·3 책임 구조 분석 (Responsibility Structure) | 2026-04-10 |
+| wiki/analyses/책임구조분석.md | 제주4·3 책임 구조 분석 (Responsibility Structure) — 미국 책임 섹션 보강 | 2026-04-11 |
 | wiki/analyses/기억의정치연대기.md | 기억의 정치 연대기 (Politics of Memory Chronology) | 2026-04-10 |
+| wiki/analyses/폭력의시간.md | 폭력의 시간: 초토화에서 예비검속까지 (Temporal Layers of Violence) | 2026-04-11 |
+| wiki/analyses/침묵의장치들.md | 침묵의 장치들: 연좌제·국가보안법·반공담론 (Architecture of Silence) | 2026-04-11 |
+| wiki/analyses/정명과화해.md | 정명과 화해의 불가능성: 명칭 투쟁과 합의의 정치학 (Naming & Reconciliation) | 2026-04-11 |
+| wiki/analyses/공간과기억.md | 마을의 소실과 기억의 지리학: 공간적 추방 (Spatial Memory & Lost Villages) | 2026-04-11 |
 
 총 페이지: 146 | 소스: 89 (+ redirect 4) | 엔티티: 31 | 사건: 13 | 참고문헌: 1 | 마지막 업데이트: 2026-04-10
