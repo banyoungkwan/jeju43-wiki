@@ -4,6 +4,7 @@ import * as Component from "./quartz/components"
 // Explorer sortFn — analysisOrder must be INSIDE the function
 // because Quartz serializes sortFn to an inline script at runtime
 const explorerSortFn = (a: any, b: any) => {
+  // Analysis pages: fixed chronological order
   const analysisOrder: Record<string, number> = {
     "책임구조분석": 1,
     "폭력의시간": 2,
@@ -20,7 +21,11 @@ const explorerSortFn = (a: any, b: any) => {
   if (aOrder !== undefined && bOrder !== undefined) return aOrder - bOrder
 
   if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-    return a.displayName.localeCompare(b.displayName, undefined, {
+    // For folders: use slugSegment so numeric prefixes (1-, 2-, ...) sort correctly
+    // For files: use displayName (title)
+    const aKey = a.isFolder ? aSlug : a.displayName
+    const bKey = b.isFolder ? bSlug : b.displayName
+    return aKey.localeCompare(bKey, undefined, {
       numeric: true,
       sensitivity: "base",
     })
