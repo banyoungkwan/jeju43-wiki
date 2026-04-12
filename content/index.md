@@ -8,6 +8,20 @@ title: 제주4·3 아카이브 위키
 
 이 위키는 [Andrej Karpathy의 LLM wiki 아이디어](https://x.com/karpathy/status/2039805659525644595)를 바탕으로, [Youngkwan Ban](https://banyoungkwan.github.io)이 LLM을 활용하여 구축하고 있는 제주4·3 Knowledge Base(한/영)입니다. 1차 사료, 학술 연구, 미국 기밀해제 문서 등을 LLM이 마크다운 위키로 컴파일·확장하고, 연구자가 검증·편집합니다.
 
+## 지식 그래프
+
+<div class="graph-embed-wrapper">
+  <iframe
+    src="/static/knowledge-graph.html"
+    width="100%"
+    height="560"
+    style="border:none; border-radius:6px; display:block;"
+    title="제주4·3 지식 그래프 — 72개 노드, 774개 연결"
+    loading="lazy">
+  </iframe>
+  <p class="graph-embed-caption">72개 항목 · 774개 연결 — 노드를 클릭하면 해당 페이지로 이동합니다</p>
+</div>
+
 ## 둘러보기
 
 - [국가폭력](wiki/concepts/국가폭력) · [집단기억](wiki/concepts/집단기억) · [이행기정의](wiki/concepts/이행기정의) · [화해](wiki/concepts/화해) · [예비검속](wiki/concepts/예비검속) · [초토화작전](wiki/concepts/초토화작전)
