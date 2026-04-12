@@ -32,10 +32,10 @@ Testimonies are records of oral accounts from survivors, bereaved families, and 
 
 - [[김동만-2021-증언채록|김동만 – 2021년 4·3진상규명증언채록]] — 김동만, 2021
 - [[김수열-2021-증언채록|김수열 — 2021년 4·3진상규명증언채록]] — 김수열, 2021
-- [[김창후-2021-증언채록|Kim Changhoo (2021) — Testimony Recording on Jeju 4·3 Research and US Document Discovery]] — 김창후, 2021
+- [[김창후-2021-증언채록|김창후 — 2021년 4·3진상규명증언채록]] — 김창후, 2021
 - [[문무병-2021-증언채록|문무병 — 2021년 4·3진상규명증언채록]] — 문무병, 2021
 - [[송승문-2021-증언채록|송승문 2021 4·3진상규명증언채록]] — 송승문, 2021
 
 #### 작가·언론인 증언 | Writer and Journalist Testimonies
 
-- [[현기영-2020-증언채록|Hyun Ki-young — 2020 4·3 Truth-Seeking Testimony]] — 현기영, 2020
+- [[현기영-2020-증언채록|현기영 — 2020년 4·3진상규명증언채록]] — 현기영, 2020

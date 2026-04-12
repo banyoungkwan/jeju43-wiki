@@ -3,7 +3,7 @@ title: "학술 자료"
 title_en: "Academic Sources"
 ---
 
-학술 자료는 제주4·3을 연구하는 학자들의 논문과 연구서를 모은 자료실입니다. 한국 학자뿐 아니라 국제 학자들의 다양한 관점을 포함하고 있습니다.
+학술 자료는 제주4·3을 연구하는 학자들의 논문과 연구서를 모은 참고자료입니다. 한국 학자뿐 아니라 국제 학자들의 다양한 관점을 포함하고 있습니다.
 
 Academic sources include papers, dissertations, and research works by scholars studying Jeju 4·3. The collection encompasses perspectives from both Korean and international researchers.
 

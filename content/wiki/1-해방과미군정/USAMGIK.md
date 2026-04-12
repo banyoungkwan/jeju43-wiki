@@ -8,9 +8,9 @@ created: 2026-04-08
 updated: 2026-04-08
 status: draft
 sources:
-  - wiki/sources/미국기밀해제문서-개요
-  - wiki/sources/G2-일일정보보고
-  - wiki/sources/진상조사보고서
+  - sources/미국기밀해제문서-개요
+  - sources/G2-일일정보보고
+  - sources/진상조사보고서
 confidence: confirmed
 ---
 

@@ -25,7 +25,6 @@ Official Reports include government investigation reports, white papers, and int
 ### 1차 사료/보고서 | Primary Source Reports
 
 - [[43은말한다|4·3은 말한다]] — 제민일보 4·3취재반, 1989–1993 (6권)
-- [[제민일보-기획3-4ㆍ3은말한다|제민일보 기획3: 4·3은 말한다]] — 제민일보, 1990–1993
 
 ### 국제기구 보고서 | International Organization Reports
 

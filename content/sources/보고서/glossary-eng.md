@@ -7,12 +7,12 @@ date_range: "2003"
 created: 2026-04-08
 updated: 2026-04-08
 sources:
-  - wiki/sources/진상조사보고서
+  - sources/진상조사보고서
 related:
-  - wiki/sources/jeju43-report-eng-preface-ch1
-  - wiki/sources/jeju43-report-eng-ch2
-  - wiki/sources/jeju43-report-eng-ch3
-  - wiki/sources/jeju43-report-eng-ch4-5
+  - sources/jeju43-report-eng-preface-ch1
+  - sources/jeju43-report-eng-ch2
+  - sources/jeju43-report-eng-ch3
+  - sources/jeju43-report-eng-ch4-5
 status: ingested
 ---
 
