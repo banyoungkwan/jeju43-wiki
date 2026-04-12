@@ -24,10 +24,10 @@ title: 제주4·3 아카이브 위키
 
 ## 둘러보기
 
-- [국가폭력](wiki/concepts/국가폭력) · [집단기억](wiki/concepts/집단기억) · [이행기정의](wiki/concepts/이행기정의) · [화해](wiki/concepts/화해) · [예비검속](wiki/concepts/예비검속) · [초토화작전](wiki/concepts/초토화작전)
+- [국가폭력](wiki/8-초시간적프레임/국가폭력) · [집단기억](wiki/8-초시간적프레임/집단기억) · [이행기정의](wiki/7-제도화와기념/이행기정의) · [화해](wiki/7-제도화와기념/화해) · [예비검속](wiki/4-한국전쟁과예비검속/예비검속) · [초토화작전](wiki/3-초토화와학살/초토화작전)
 - [주요 연표 1947-1954](wiki/timelines/주요연표)
-- [4·3위원회](wiki/entities/4-3위원회) · [9연대](wiki/entities/9연대) · [2연대](wiki/entities/2연대) · [서북청년회](wiki/entities/서북청년회) · [4·3평화공원](wiki/entities/4-3평화공원) · [재일제주인](wiki/entities/재일제주인) · [USAMGIK](wiki/entities/USAMGIK) · [KMAG](wiki/entities/KMAG) · [무쵸](wiki/entities/무쵸)
-- [3·10총파업](wiki/events/3·10총파업) · [딘](wiki/entities/딘) · [브라운](wiki/entities/브라운) · [슈](wiki/entities/슈) · [함병선](wiki/entities/함병선) · [오용국](wiki/entities/오용국)
+- [4·3위원회](wiki/7-제도화와기념/4-3위원회) · [9연대](wiki/2-봉기와협상/9연대) · [2연대](wiki/3-초토화와학살/2연대) · [서북청년회](wiki/1-해방과미군정/서북청년회) · [4·3평화공원](wiki/7-제도화와기념/4-3평화공원) · [재일제주인](wiki/8-초시간적프레임/재일제주인) · [USAMGIK](wiki/1-해방과미군정/USAMGIK) · [KMAG](wiki/3-초토화와학살/KMAG) · [무쵸](wiki/3-초토화와학살/무쵸)
+- [3·10총파업](wiki/1-해방과미군정/3·10총파업) · [딘](wiki/1-해방과미군정/딘) · [브라운](wiki/2-봉기와협상/브라운) · [슈](wiki/2-봉기와협상/슈) · [함병선](wiki/3-초토화와학살/함병선) · [오용국](wiki/2-봉기와협상/오용국)
 - **분석**: [제주4·3의 지휘 체계](wiki/analyses/책임구조분석) · [학살은 한 번으로 끝나지 않았다](wiki/analyses/폭력의시간) · [사라진 마을 122곳, 지워진 지도](wiki/analyses/공간과기억) · [누가, 어떻게 입을 막았는가](wiki/analyses/침묵의장치들) · [어둠에서 빛으로](wiki/analyses/기억의정치연대기) · [4·3 정명, 그리고 화해](wiki/analyses/정명과화해)
 
 ## 최근 업데이트

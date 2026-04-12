@@ -112,106 +112,106 @@ private: true
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/entities/USAMGIK.md | 주한미군정청 (USAMGIK) | 기관 |
-| wiki/entities/인민위원회.md | 인민위원회 | 기관 |
-| wiki/entities/남조선노동당.md | 남조선노동당 (SKWP) | 기관 |
-| wiki/entities/서북청년회.md | 서북청년회 (서북청년단) | 기관 |
-| wiki/entities/대동청년단.md | 대동청년단 | 기관 |
-| wiki/entities/딘.md | 윌리엄 F. 딘 (William F. Dean) 소장 | 인물 |
-| wiki/entities/조병옥.md | 조병옥 (趙炳玉) | 인물 |
-| wiki/events/3·1사건.md | 3·1사건 (1947.3.1) | 사건 |
-| wiki/events/3·10총파업.md | 3·10 총파업 (1947.3.10) | 사건 |
-| wiki/concepts/고문치사.md | 고문치사 — 봉기의 직접 촉발요인 | 개념 |
+| wiki/1-해방과미군정/USAMGIK.md | 주한미군정청 (USAMGIK) | 기관 |
+| wiki/1-해방과미군정/인민위원회.md | 인민위원회 | 기관 |
+| wiki/1-해방과미군정/남조선노동당.md | 남조선노동당 (SKWP) | 기관 |
+| wiki/1-해방과미군정/서북청년회.md | 서북청년회 (서북청년단) | 기관 |
+| wiki/1-해방과미군정/대동청년단.md | 대동청년단 | 기관 |
+| wiki/1-해방과미군정/딘.md | 윌리엄 F. 딘 (William F. Dean) 소장 | 인물 |
+| wiki/1-해방과미군정/조병옥.md | 조병옥 (趙炳玉) | 인물 |
+| wiki/1-해방과미군정/3·1사건.md | 3·1사건 (1947.3.1) | 사건 |
+| wiki/1-해방과미군정/3·10총파업.md | 3·10 총파업 (1947.3.10) | 사건 |
+| wiki/1-해방과미군정/고문치사.md | 고문치사 — 봉기의 직접 촉발요인 | 개념 |
 
 ### II. 봉기와 협상 (1948.4–1948.10) — 무장봉기·평화협상·강경전환
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/entities/김달삼.md | 김달삼 (金達三) | 인물 |
-| wiki/entities/김익렬.md | 김익렬 — 9연대장·평화협상 | 인물 |
-| wiki/entities/9연대.md | 제9연대 | 기관 |
-| wiki/entities/제11연대.md | 제11연대 | 기관 |
-| wiki/entities/박진경.md | 박진경 — 11연대장 | 인물 |
-| wiki/entities/브라운.md | 로스웰 H. 브라운 대령 — 미군 작전지휘 | 인물 |
-| wiki/entities/슈.md | M. W. 슈 중령 — 미군 감찰 | 인물 |
-| wiki/entities/오용국.md | 오용국 (吳龍國) — 5·10선거·국회의원 | 인물 |
-| wiki/events/무장봉기.md | 무장봉기 (1948.4.3) | 사건 |
-| wiki/events/평화협상.md | 4·28 평화협상 | 사건 |
-| wiki/events/오라리방화사건.md | 오라리방화사건 (1948.5.1) | 사건 |
-| wiki/events/5·10선거.md | 5·10선거 (1948.5.10) | 사건 |
+| wiki/2-봉기와협상/김달삼.md | 김달삼 (金達三) | 인물 |
+| wiki/2-봉기와협상/김익렬.md | 김익렬 — 9연대장·평화협상 | 인물 |
+| wiki/2-봉기와협상/9연대.md | 제9연대 | 기관 |
+| wiki/2-봉기와협상/제11연대.md | 제11연대 | 기관 |
+| wiki/2-봉기와협상/박진경.md | 박진경 — 11연대장 | 인물 |
+| wiki/2-봉기와협상/브라운.md | 로스웰 H. 브라운 대령 — 미군 작전지휘 | 인물 |
+| wiki/2-봉기와협상/슈.md | M. W. 슈 중령 — 미군 감찰 | 인물 |
+| wiki/2-봉기와협상/오용국.md | 오용국 (吳龍國) — 5·10선거·국회의원 | 인물 |
+| wiki/2-봉기와협상/무장봉기.md | 무장봉기 (1948.4.3) | 사건 |
+| wiki/2-봉기와협상/평화협상.md | 4·28 평화협상 | 사건 |
+| wiki/2-봉기와협상/오라리방화사건.md | 오라리방화사건 (1948.5.1) | 사건 |
+| wiki/2-봉기와협상/5·10선거.md | 5·10선거 (1948.5.10) | 사건 |
 
 ### III. 초토화와 학살 (1948.10–1949.9) — 강경진압·대량학살·진압완료
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/events/여순사건.md | 여순사건 (1948.10.19) — 초토화의 직접 계기 | 사건 |
-| wiki/entities/송요찬.md | 송요찬 — 9연대장·초토화 | 인물 |
-| wiki/entities/함병선.md | 함병선 (咸炳善) — 2연대장·초토화 | 인물 |
-| wiki/entities/2연대.md | 제2연대 | 기관 |
-| wiki/entities/제주도지구전투사령부.md | 제주도지구전투사령부 | 기관 |
-| wiki/entities/유재흥.md | 유재흥 — 전투사령관 | 인물 |
-| wiki/entities/KMAG.md | 주한미군사고문단 (KMAG) | 기관 |
-| wiki/entities/하우스만.md | 제임스 하우스만 (James Hausman) | 인물 |
-| wiki/entities/무쵸.md | 존 무쵸 (John J. Muccio) | 인물 |
-| wiki/entities/이덕구.md | 이덕구 — 무장대 2대 사령관 | 인물 |
-| wiki/events/북촌리학살.md | 북촌리학살 (1949.1.17) | 사건 |
-| wiki/events/다랑쉬굴학살.md | 다랑쉬굴학살 | 사건 |
-| wiki/events/표선리학살.md | 표선리학살 (1948.12) | 사건 |
-| wiki/events/정방폭포학살.md | 정방폭포·소남머리 학살 | 사건 |
-| wiki/concepts/초토화작전.md | 초토화작전 (Scorched-Earth Campaign) | 개념 |
-| wiki/concepts/소개령.md | 소개령 (Forced Evacuation) | 개념 |
-| wiki/concepts/계엄령.md | 계엄령 (Martial Law, 1948.11.17) | 개념 |
-| wiki/concepts/군사재판.md | 군사재판 (Military Tribunals) | 개념 |
-| wiki/concepts/대반란전교리.md | 대반란전 교리 (COIN Doctrine) | 개념 |
-| wiki/concepts/잃어버린마을.md | 잃어버린 마을 (Lost Villages) — 122개 폐촌 | 개념 |
-| wiki/concepts/43성.md | 4·3성 (4·3 Fortifications) — 109개 성곽 | 개념 |
+| wiki/3-초토화와학살/여순사건.md | 여순사건 (1948.10.19) — 초토화의 직접 계기 | 사건 |
+| wiki/3-초토화와학살/송요찬.md | 송요찬 — 9연대장·초토화 | 인물 |
+| wiki/3-초토화와학살/함병선.md | 함병선 (咸炳善) — 2연대장·초토화 | 인물 |
+| wiki/3-초토화와학살/2연대.md | 제2연대 | 기관 |
+| wiki/3-초토화와학살/제주도지구전투사령부.md | 제주도지구전투사령부 | 기관 |
+| wiki/3-초토화와학살/유재흥.md | 유재흥 — 전투사령관 | 인물 |
+| wiki/3-초토화와학살/KMAG.md | 주한미군사고문단 (KMAG) | 기관 |
+| wiki/3-초토화와학살/하우스만.md | 제임스 하우스만 (James Hausman) | 인물 |
+| wiki/3-초토화와학살/무쵸.md | 존 무쵸 (John J. Muccio) | 인물 |
+| wiki/3-초토화와학살/이덕구.md | 이덕구 — 무장대 2대 사령관 | 인물 |
+| wiki/3-초토화와학살/북촌리학살.md | 북촌리학살 (1949.1.17) | 사건 |
+| wiki/3-초토화와학살/다랑쉬굴학살.md | 다랑쉬굴학살 | 사건 |
+| wiki/3-초토화와학살/표선리학살.md | 표선리학살 (1948.12) | 사건 |
+| wiki/3-초토화와학살/정방폭포학살.md | 정방폭포·소남머리 학살 | 사건 |
+| wiki/3-초토화와학살/초토화작전.md | 초토화작전 (Scorched-Earth Campaign) | 개념 |
+| wiki/3-초토화와학살/소개령.md | 소개령 (Forced Evacuation) | 개념 |
+| wiki/3-초토화와학살/계엄령.md | 계엄령 (Martial Law, 1948.11.17) | 개념 |
+| wiki/3-초토화와학살/군사재판.md | 군사재판 (Military Tribunals) | 개념 |
+| wiki/3-초토화와학살/대반란전교리.md | 대반란전 교리 (COIN Doctrine) | 개념 |
+| wiki/3-초토화와학살/잃어버린마을.md | 잃어버린 마을 (Lost Villages) — 122개 폐촌 | 개념 |
+| wiki/3-초토화와학살/43성.md | 4·3성 (4·3 Fortifications) — 109개 성곽 | 개념 |
 
 ### IV. 한국전쟁과 예비검속 (1950–1954) — 2차 폭력의 연쇄
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/entities/국민보도연맹.md | 국민보도연맹 (Bodo League) | 기관 |
-| wiki/entities/문형순.md | 문형순 — 예비검속 거부 경찰서장 | 인물 |
-| wiki/events/섯알오름학살.md | 섯알오름 학살 (1950, 예비검속) | 사건 |
-| wiki/concepts/예비검속.md | 예비검속 (Preventive Detention) | 개념 |
+| wiki/4-한국전쟁과예비검속/국민보도연맹.md | 국민보도연맹 (Bodo League) | 기관 |
+| wiki/4-한국전쟁과예비검속/문형순.md | 문형순 — 예비검속 거부 경찰서장 | 인물 |
+| wiki/4-한국전쟁과예비검속/섯알오름학살.md | 섯알오름 학살 (1950, 예비검속) | 사건 |
+| wiki/4-한국전쟁과예비검속/예비검속.md | 예비검속 (Preventive Detention) | 개념 |
 
 ### V. 강제된 망각 (1954–1987) — 침묵의 40년
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/concepts/국가보안법.md | 국가보안법 (National Security Act) — 기억 억압의 법적 기제 | 개념 |
-| wiki/concepts/연좌제.md | 연좌제 (Guilt by Association) — 행정적 차별 체계 | 개념 |
+| wiki/5-강제된망각/국가보안법.md | 국가보안법 (National Security Act) — 기억 억압의 법적 기제 | 개념 |
+| wiki/5-강제된망각/연좌제.md | 연좌제 (Guilt by Association) — 행정적 차별 체계 | 개념 |
 
 ### VI. 기억의 복원 (1987–1999) — 문화적 저항과 증언
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/entities/제주43연구소.md | 제주4·3연구소 (1989–) | 기관 |
-| wiki/entities/제민일보4·3취재반.md | 제민일보 4·3취재반 (1989–1999) | 기관 |
-| wiki/concepts/진상규명운동.md | 진상규명운동 (Truth-Finding Movement) | 개념 |
+| wiki/6-기억의복원/제주43연구소.md | 제주4·3연구소 (1989–) | 기관 |
+| wiki/6-기억의복원/제민일보4·3취재반.md | 제민일보 4·3취재반 (1989–1999) | 기관 |
+| wiki/6-기억의복원/진상규명운동.md | 진상규명운동 (Truth-Finding Movement) | 개념 |
 
 ### VII. 제도화와 기념 (1999–현재) — 국가적 인정·법적 회복·공간화
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/entities/4-3위원회.md | 4·3위원회 (2000–) | 기관 |
-| wiki/entities/4-3평화공원.md | 4·3평화공원 / 평화기념관 (2005–) | 장소 |
-| wiki/events/유해발굴.md | 유해발굴 (2007–, DNA 감식) | 사건 |
-| wiki/concepts/이행기정의.md | 이행기정의 (Transitional Justice) | 개념 |
-| wiki/concepts/재심.md | 재심 — 수형인 명예회복 (2017–) | 개념 |
-| wiki/concepts/정명.md | 정명 (Proper Naming) — 명칭 논쟁과 백비 | 개념 |
-| wiki/concepts/세계기록유산.md | 세계기록유산 (UNESCO, 2025) | 개념 |
-| wiki/concepts/화해.md | 화해 (Reconciliation) | 개념 |
-| wiki/concepts/왜곡과부인.md | 왜곡과 부인 (Distortion and Denial) | 개념 |
+| wiki/7-제도화와기념/4-3위원회.md | 4·3위원회 (2000–) | 기관 |
+| wiki/7-제도화와기념/4-3평화공원.md | 4·3평화공원 / 평화기념관 (2005–) | 장소 |
+| wiki/7-제도화와기념/유해발굴.md | 유해발굴 (2007–, DNA 감식) | 사건 |
+| wiki/7-제도화와기념/이행기정의.md | 이행기정의 (Transitional Justice) | 개념 |
+| wiki/7-제도화와기념/재심.md | 재심 — 수형인 명예회복 (2017–) | 개념 |
+| wiki/7-제도화와기념/정명.md | 정명 (Proper Naming) — 명칭 논쟁과 백비 | 개념 |
+| wiki/7-제도화와기념/세계기록유산.md | 세계기록유산 (UNESCO, 2025) | 개념 |
+| wiki/7-제도화와기념/화해.md | 화해 (Reconciliation) | 개념 |
+| wiki/7-제도화와기념/왜곡과부인.md | 왜곡과 부인 (Distortion and Denial) | 개념 |
 
 ### VIII. 초시간적 분석 프레임 — 사건 전체를 관통하는 개념
 
 | 파일 | 제목 | 유형 |
 |------|------|------|
-| wiki/concepts/국가폭력.md | 국가폭력 (State Violence) | 개념 |
-| wiki/concepts/집단기억.md | 집단기억 (Collective Memory) | 개념 |
-| wiki/entities/재일제주인.md | 재일제주인 (在日濟州人) | 집단 |
-| wiki/concepts/재일제주인디아스포라.md | 재일제주인 디아스포라 (Jeju Diaspora in Japan) | 개념 |
+| wiki/8-초시간적프레임/국가폭력.md | 국가폭력 (State Violence) | 개념 |
+| wiki/8-초시간적프레임/집단기억.md | 집단기억 (Collective Memory) | 개념 |
+| wiki/8-초시간적프레임/재일제주인.md | 재일제주인 (在日濟州人) | 집단 |
+| wiki/8-초시간적프레임/재일제주인디아스포라.md | 재일제주인 디아스포라 (Jeju Diaspora in Japan) | 개념 |
 
 ## Timelines
 

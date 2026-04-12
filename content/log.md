@@ -558,3 +558,12 @@
   - 정명과화해: "정명과 화해의 불가능성" → **4·3 정명, 그리고 화해** (Naming 4·3, and Reconciliation)
 - **작업 내용**: frontmatter title/title_en 변경, aliases에 구 파일명 추가, H1 제목·영문 H1 변경, index-internal.md Analyses 섹션 시간순 재배치, 내부 [[wikilink]] display text 갱신
 - **시간순 배치**: 책임구조분석 → 폭력의시간 → 공간과기억 → 침묵의장치들 → 기억의정치연대기 → 정명과화해
+
+## [2026-04-12] restructure | 시대별 폴더 재구조화 + Explorer 이중언어
+
+- **구조 변경**: entities/events/concepts 3개 폴더 → 기억의정치연대기 프레임워크 기반 8개 시대별 폴더로 통합 재배치 (65개 파일 이동)
+  - 1-해방과미군정 (10), 2-봉기와협상 (12), 3-초토화와학살 (21), 4-한국전쟁과예비검속 (4), 5-강제된망각 (2), 6-기억의복원 (3), 7-제도화와기념 (9), 8-초시간적프레임 (4)
+- **이중언어 분리**: 병기 형태("한글 / English") → `title` (한국어만) + `title_en` (영문만) 분리 (65+11건)
+- **Explorer 이중언어 토글**: ContentIndex→fileTrie→Explorer 전체 파이프라인에 title_en 추가, data-lang MutationObserver로 실시간 언어 전환
+- **경로 갱신**: index.md (21건), index-internal.md (65건) 전체 경로 갱신
+- **시대 폴더 인덱스**: 8개 시대 + analyses 폴더 index.md 생성 (한/영 제목 포함)

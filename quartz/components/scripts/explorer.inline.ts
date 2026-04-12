@@ -86,7 +86,12 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   const a = li.querySelector("a") as HTMLAnchorElement
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
-  a.textContent = node.displayName
+  a.dataset.titleKo = node.displayName
+  if (node.displayNameEn) {
+    a.dataset.titleEn = node.displayNameEn
+  }
+  const lang = document.documentElement.getAttribute("data-lang") ?? "ko"
+  a.textContent = (lang === "en" && node.displayNameEn) ? node.displayNameEn : node.displayName
 
   if (currentSlug === node.slug) {
     a.classList.add("active")
@@ -115,6 +120,9 @@ function createFolderNode(
     folderContainer.classList.add("active")
   }
 
+  const lang = document.documentElement.getAttribute("data-lang") ?? "ko"
+  const folderDisplayText = (lang === "en" && node.displayNameEn) ? node.displayNameEn : node.displayName
+
   if (opts.folderClickBehavior === "link") {
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
@@ -122,11 +130,15 @@ function createFolderNode(
     a.href = resolveRelative(currentSlug, folderPath)
     a.dataset.for = folderPath
     a.className = "folder-title"
-    a.textContent = node.displayName
+    a.dataset.titleKo = node.displayName
+    if (node.displayNameEn) a.dataset.titleEn = node.displayNameEn
+    a.textContent = folderDisplayText
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
-    span.textContent = node.displayName
+    span.dataset.titleKo = node.displayName
+    if (node.displayNameEn) span.dataset.titleEn = node.displayNameEn
+    span.textContent = folderDisplayText
   }
 
   // if the saved state is collapsed or the default state is collapsed
@@ -303,3 +315,26 @@ window.addEventListener("resize", function () {
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
   return collapsed ? folderElement.classList.remove("open") : folderElement.classList.add("open")
 }
+
+// Language toggle support: swap explorer titles when data-lang changes
+function updateExplorerLanguage() {
+  const lang = document.documentElement.getAttribute("data-lang") ?? "ko"
+  const explorerElements = document.querySelectorAll<HTMLElement>(
+    ".explorer a[data-title-ko], .explorer .folder-title[data-title-ko]"
+  )
+  for (const el of explorerElements) {
+    const ko = el.dataset.titleKo
+    const en = el.dataset.titleEn
+    el.textContent = (lang === "en" && en) ? en : (ko ?? el.textContent)
+  }
+}
+
+// Listen for language toggle via MutationObserver on data-lang attribute
+const langObserver = new MutationObserver((mutations) => {
+  for (const mutation of mutations) {
+    if (mutation.type === "attributes" && mutation.attributeName === "data-lang") {
+      updateExplorerLanguage()
+    }
+  }
+})
+langObserver.observe(document.documentElement, { attributes: true, attributeFilter: ["data-lang"] })

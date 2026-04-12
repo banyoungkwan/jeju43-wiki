@@ -4,6 +4,7 @@ import { FullSlug, joinSegments } from "./path"
 interface FileTrieData {
   slug: string
   title: string
+  title_en?: string
   filePath: string
 }
 
@@ -36,6 +37,12 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
 
   set displayName(name: string) {
     this.displayNameOverride = name
+  }
+
+  get displayNameEn(): string | undefined {
+    const nonIndexTitleEn =
+      this.data?.title === "index" ? undefined : (this.data as any)?.title_en
+    return nonIndexTitleEn ?? undefined
   }
 
   get slug(): FullSlug {
