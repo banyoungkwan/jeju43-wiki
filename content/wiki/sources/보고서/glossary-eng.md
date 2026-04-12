@@ -50,4 +50,4 @@ status: ingested
 
 ## 활용 방법
 
-이 용어집은 [[jeju43-report-eng-preface-ch1]], [[jeju43-report-eng-ch2]], [[jeju43-report-eng-ch3]], [[jeju43-report-eng-ch4-5]] 등 영문 번역 전체에 적용된다. 추후 wiki 페이지의 영어 alias 또는 병기 용어 작성 시 이 대역표를 참조한다.
+이 용어집은 [[진상조사보고서]] 영문 번역 전체에 적용된다. 추후 wiki 페이지의 영어 alias 또는 병기 용어 작성 시 이 대역표를 참조한다.

@@ -1,0 +1,41 @@
+---
+title: "증언"
+title_en: "Testimonies"
+---
+
+증언 자료는 제주4·3 사건의 생존자, 유족, 그리고 관계자들의 구술 증언을 기록한 자료들입니다. 1989년 최초의 구술 증언집부터 최근의 진상규명 증언채록까지 포함되어 있습니다.
+
+Testimonies are records of oral accounts from survivors, bereaved families, and related individuals of Jeju 4·3. Materials include the first testimonial collection in 1989 through recent truth-seeking testimony recordings.
+
+## 자료 목록 | List of Materials
+
+### 주요 증언 저작 | Major Testimony Collections
+
+- [[이제사말햄수다|이제사 말햄수다 — 4·3증언자료집]] — 제주4·3연구소, 1989
+- [[제주MBC-넉시오름-기자상|제주MBC — 넉시오름의 세 가지 이야기]] — 제주MBC, 2013
+
+### 개인 증언 채록 | Individual Testimony Recordings
+
+#### 2020년 증언 | 2020 Testimonies
+
+- [[강남규-2020-증언채록|강남규 – 2020년 4·3진상규명증언채록]] — 강남규, 2020
+- [[강요배-2020-증언채록|강요배 – 2020년 4·3진상규명증언채록]] — 강요배, 2020
+- [[강창일-2020-증언채록|강창일 – 2020년 4·3 진상규명증언채록]] — 강창일, 2020
+- [[고희범-2020-증언채록|고희범 2020 증언채록]] — 고희범, 2020
+- [[김명식-2020-증언채록|김명식 — 2020년 4·3진상규명증언채록]] — 김명식, 2020
+- [[박경훈-2020-증언채록|박경훈 – 2020년 4·3진상규명증언채록]] — 박경훈, 2020
+- [[양동윤-2020-증언채록|양동윤 – 2020년 4·3진상규명증언채록]] — 양동윤, 2020
+- [[양조훈-2020-증언채록|양조훈 2020년 4·3 진상규명 증언채록]] — 양조훈, 2020
+- [[이문교-2020-증언채록|이문교 – 2020년 4·3진상규명증언채록]] — 이문교, 2020
+
+#### 2021년 증언 | 2021 Testimonies
+
+- [[김동만-2021-증언채록|김동만 – 2021년 4·3진상규명증언채록]] — 김동만, 2021
+- [[김수열-2021-증언채록|김수열 — 2021년 4·3진상규명증언채록]] — 김수열, 2021
+- [[김창후-2021-증언채록|Kim Changhoo (2021) — Testimony Recording on Jeju 4·3 Research and US Document Discovery]] — 김창후, 2021
+- [[문무병-2021-증언채록|문무병 — 2021년 4·3진상규명증언채록]] — 문무병, 2021
+- [[송승문-2021-증언채록|송승문 2021 4·3진상규명증언채록]] — 송승문, 2021
+
+#### 작가·언론인 증언 | Writer and Journalist Testimonies
+
+- [[현기영-2020-증언채록|Hyun Ki-young — 2020 4·3 Truth-Seeking Testimony]] — 현기영, 2020

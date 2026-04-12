@@ -13,10 +13,18 @@ git add -A
 echo ""
 echo "=== committing ==="
 git commit -m "$(cat <<'EOF'
-fix: Explorer 시대 폴더 정렬 — slugSegment 기준으로 숫자순 정렬
+refactor: sources 4분류 재정리 + 파일 병합 + 크로스링크
 
-폴더 정렬 시 displayName(한글 제목) 대신 slugSegment(1-해방과미군정 등)를
-사용하여 시대순 정렬 보장. 파일은 기존대로 displayName(제목)으로 정렬.
+- sources/를 보고서·1차자료·증언·학술 4개 하위폴더로 재구조화
+- references/ 폴더를 sources/로 통합, 삭제
+- 재일제주인디아스포라.md → 재일제주인.md로 병합
+- jeju43-followup-eng → 추가진상조사보고서 English Section 통합
+- HWP_WB_화해와상생 → 화해와상생.md로 통합 (English academic summary 추가)
+- 영문 redirect 4개 파일 삭제 (jeju43-report-eng-*)
+- 3·1사건 ↔ 3·10총파업 상호 크로스링크 추가
+- 3·1사건 aliases에 3·1발포사건, March 1 Shooting Incident 추가
+- 각 하위폴더 index.md 생성 (가나다/ABC순 정렬)
+- index-internal.md 전면 갱신
 
 Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
 EOF
