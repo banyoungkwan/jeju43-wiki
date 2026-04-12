@@ -11,7 +11,7 @@ This category compiles Constitutional Court decisions and court rulings related 
 
 ### 헌법재판소 결정 | Constitutional Court Decisions
 
-- [[헌재-43특별법결정|헌법재판소 제주4·3 관련 결정 5건 (2001–2019)]] — 특별법 합헌성, 희생자 범위, 대통령 사과 성명 관련
+- [[헌재_2001_43특별법결정|헌법재판소 제주4·3 관련 결정 5건 (2001–2019)]] — 특별법 합헌성, 희생자 범위, 대통령 사과 성명 관련
 
 ### 법원 판결 | Court Rulings
 
