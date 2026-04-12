@@ -28,7 +28,7 @@ title: 제주4·3 아카이브 위키
 - [주요 연표 1947-1954](wiki/timelines/주요연표)
 - [4·3위원회](wiki/entities/4-3위원회) · [9연대](wiki/entities/9연대) · [2연대](wiki/entities/2연대) · [서북청년회](wiki/entities/서북청년회) · [4·3평화공원](wiki/entities/4-3평화공원) · [재일제주인](wiki/entities/재일제주인) · [USAMGIK](wiki/entities/USAMGIK) · [KMAG](wiki/entities/KMAG) · [무쵸](wiki/entities/무쵸)
 - [3·10총파업](wiki/events/3·10총파업) · [딘](wiki/entities/딘) · [브라운](wiki/entities/브라운) · [슈](wiki/entities/슈) · [함병선](wiki/entities/함병선) · [오용국](wiki/entities/오용국)
-- **분석**: [책임 구조 분석](wiki/analyses/책임구조분석) · [기억의 정치 연대기](wiki/analyses/기억의정치연대기)
+- **분석**: [제주4·3의 지휘 체계](wiki/analyses/책임구조분석) · [학살은 한 번으로 끝나지 않았다](wiki/analyses/폭력의시간) · [사라진 마을 122곳, 지워진 지도](wiki/analyses/공간과기억) · [누가, 어떻게 입을 막았는가](wiki/analyses/침묵의장치들) · [어둠에서 빛으로](wiki/analyses/기억의정치연대기) · [4·3 정명, 그리고 화해](wiki/analyses/정명과화해)
 
 ## 최근 업데이트
 

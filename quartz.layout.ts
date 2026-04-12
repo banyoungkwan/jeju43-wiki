@@ -1,5 +1,30 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+// Custom sort: chronological order for analyses, alphabetical elsewhere
+const analysisOrder: Record<string, number> = {
+  "책임구조분석": 1,
+  "폭력의시간": 2,
+  "공간과기억": 3,
+  "침묵의장치들": 4,
+  "기억의정치연대기": 5,
+  "정명과화해": 6,
+}
+
+function explorerSortFn(a: FileTrieNode, b: FileTrieNode): number {
+  const aOrder = analysisOrder[a.slugSegment ?? ""]
+  const bOrder = analysisOrder[b.slugSegment ?? ""]
+  if (aOrder !== undefined && bOrder !== undefined) return aOrder - bOrder
+
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+  return a.isFolder ? -1 : 1
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -41,7 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.LanguageToggle() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSortFn }),
   ],
   right: [
     Component.Graph({
@@ -86,7 +111,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSortFn }),
   ],
   right: [],
 }

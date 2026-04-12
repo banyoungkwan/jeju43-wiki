@@ -232,8 +232,8 @@ private: true
 | wiki/analyses/책임구조분석.md | 제주4·3의 지휘 체계 (The Chain of Command) | 2026-04-11 |
 | wiki/analyses/폭력의시간.md | 학살은 한 번으로 끝나지 않았다 (The Killing Did Not End Once) | 2026-04-11 |
 | wiki/analyses/공간과기억.md | 사라진 마을 122곳, 지워진 지도 (122 Villages Erased, a Map Redrawn) | 2026-04-11 |
-| wiki/analyses/침묵의장치들.md | 반세기의 침묵 (Half a Century of Silence) | 2026-04-11 |
-| wiki/analyses/기억의정치연대기.md | 50년의 침묵은 어떻게 깨졌는가 (How Fifty Years of Silence Were Broken) | 2026-04-10 |
+| wiki/analyses/침묵의장치들.md | 누가, 어떻게 입을 막았는가 (Who Silenced Them, and How) | 2026-04-11 |
+| wiki/analyses/기억의정치연대기.md | 어둠에서 빛으로 (From Darkness to Light) | 2026-04-10 |
 | wiki/analyses/정명과화해.md | 4·3 정명, 그리고 화해 (Naming 4·3, and Reconciliation) | 2026-04-11 |
 
 총 페이지: 146 | 소스: 89 (+ redirect 4) | 위키 본문: 65 (인물 21, 기관 15, 사건 13, 개념 21, 장소 1, 집단 1) | 분석: 6 | 연표: 1 | 참고문헌: 1 | 마지막 업데이트: 2026-04-12

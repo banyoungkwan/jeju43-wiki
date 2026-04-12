@@ -553,8 +553,8 @@
   - 책임구조분석: "제주4·3 책임 구조 분석" → **제주4·3의 지휘 체계** (The Chain of Command)
   - 폭력의시간: "폭력의 시간: 초토화에서 예비검속까지" → **학살은 한 번으로 끝나지 않았다** (The Killing Did Not End Once)
   - 공간과기억: "마을의 소실과 기억의 지리학" → **사라진 마을 122곳, 지워진 지도** (122 Villages Erased, a Map Redrawn)
-  - 침묵의장치들: "침묵의 장치들: 연좌제·국가보안법·반공담론의 상호작용" → **반세기의 침묵** (Half a Century of Silence)
-  - 기억의정치연대기: "기억의 정치 연대기: 제주4·3의 억압·복원·제도화" → **50년의 침묵은 어떻게 깨졌는가** (How Fifty Years of Silence Were Broken)
+  - 침묵의장치들: "침묵의 장치들: 연좌제·국가보안법·반공담론의 상호작용" → **누가, 어떻게 입을 막았는가** (Who Silenced Them, and How)
+  - 기억의정치연대기: "기억의 정치 연대기: 제주4·3의 억압·복원·제도화" → **어둠에서 빛으로** (From Darkness to Light)
   - 정명과화해: "정명과 화해의 불가능성" → **4·3 정명, 그리고 화해** (Naming 4·3, and Reconciliation)
 - **작업 내용**: frontmatter title/title_en 변경, aliases에 구 파일명 추가, H1 제목·영문 H1 변경, index-internal.md Analyses 섹션 시간순 재배치, 내부 [[wikilink]] display text 갱신
 - **시간순 배치**: 책임구조분석 → 폭력의시간 → 공간과기억 → 침묵의장치들 → 기억의정치연대기 → 정명과화해
