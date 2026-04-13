@@ -140,7 +140,8 @@ In conclusion, Chang's dissertation redefines Jeju 4.3 as revealing how contempo
 - [[증언과_책임]] — ethical meaning of witness testimony and survivor responsibility
 - [[국가폭력]] — state violence and internal othering in nation-building processes
 - [[젠더화된폭력]] — gendered violence and women's bodies as sites of state inscription
-- [[Kim_Seong_nae_기억과애도]] — Jeju 4·3 civilian memory and mourning consciousness
+- [[Kim_2000_한국적근대성]] — Mourning Korean Modernity (Kim Seong-Nae, 2000)
+- [[Kim_2019_죽은자의장소]] — Placing the Dead in the Postmemory (Kim Seong-Nae, 2019)
 - [[2003진상조사보고서]] — official truth commission investigation and findings
 - [[영화와증언]] — cinema and alternative modes of testimony beyond language
 

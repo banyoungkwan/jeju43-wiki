@@ -86,8 +86,21 @@ a.internal.tag-link {
 
 // ── Explorer sidebar ──
 .explorer {
-  .folder-title, .file-title {
+  // Folder titles: slightly bolder, secondary color (inherited from explorer.scss)
+  .folder-container .folder-title {
     font-size: 0.88rem;
+  }
+
+  // File links: smaller than folders for visual hierarchy
+  .explorer-content ul li > a {
+    font-size: 0.82rem;
+    line-height: 1.35;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%;
+    padding: 1px 0;
   }
 }
 

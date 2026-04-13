@@ -109,7 +109,9 @@ private: true
 | sources/학술/허선주_송은경_2020_민족주의국가폭력.md | 허선주·송은경 (2020) — 민족주의와 국가폭력 | 학술논문/비교정치 | 2020 |
 | sources/학술/허호준_2011_미국책임고문관.md | 허호준 — 미국 책임과 미군 고문관 4편 | 학술논문/역사학 | 2003–2011 |
 | sources/학술/현명호_2011_분노와한용서.md | 현명호 (2011) — 분노와 한, 용서의 모색 | 학술논문/심리학 | 2011 |
-| sources/학술/Kim_Seong_nae_기억과애도.md | Kim Seong-nae — 기억·애도·포스트메모리 4편 | 학술논문/기억연구 | 2000–2019 |
+| sources/학술/Kim_2000_한국적근대성.md | Kim Seong-nae (2000) — Mourning Korean Modernity | 학술논문/기억연구 | 2000 |
+| sources/학술/Kim_2004_무속서사시.md | Kim Seong-nae (2004) — Shamanic Epics | 학술논문/문화인류학 | 2004 |
+| sources/학술/Kim_2019_죽은자의장소.md | Kim Seong-nae (2019) — Placing the Dead | 학술논문/포스트메모리 | 2019 |
 
 ### 학술 (Academic) — English
 

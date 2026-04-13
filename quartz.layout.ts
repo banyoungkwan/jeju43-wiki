@@ -106,7 +106,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.LanguageToggle() },
       ],
     }),
-    Component.Explorer({ sortFn: explorerSortFn }),
+    Component.Explorer({
+      sortFn: explorerSortFn,
+      mapFn: (node: any) => {
+        // Shorten long display names for sidebar readability
+        if (!node.isFolder && node.displayName && node.displayName.length > 32) {
+          node.displayName = node.displayName.substring(0, 30) + "…"
+        }
+      },
+    }),
   ],
   right: [
     Component.Graph({
@@ -151,7 +159,14 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ sortFn: explorerSortFn }),
+    Component.Explorer({
+      sortFn: explorerSortFn,
+      mapFn: (node: any) => {
+        if (!node.isFolder && node.displayName && node.displayName.length > 32) {
+          node.displayName = node.displayName.substring(0, 30) + "…"
+        }
+      },
+    }),
   ],
   right: [],
 }
