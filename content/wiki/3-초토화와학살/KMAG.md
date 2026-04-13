@@ -88,7 +88,7 @@ KMAG는 단순 관찰자가 아니었다. 작전 계획 자문, 지휘관 평가
 
 - [[USAMGIK]] — KMAG의 전신 기관
 - [[무쵸]] — 외교 라인의 대응
-- [[9연대]] — KMAG 자문의 주 대상 부대
+- [[제9연대]] — KMAG 자문의 주 대상 부대
 - [[초토화작전]] — KMAG이 자문한 핵심 군사작전
 - [[예비검속]] — 이후 단계의 학살
 - [[KMAG-활동보고]] — 54건 문서 상세
@@ -126,7 +126,7 @@ KMAG's advisory role constituted structural participation in the suppression cam
 
 - [[USAMGIK]] — KMAG's predecessor institution
 - [[무쵸]] — Parallel diplomatic reporting channel
-- [[9연대]] — Primary Korean unit under KMAG advisory supervision
+- [[제9연대]] — Primary Korean unit under KMAG advisory supervision
 - [[초토화작전]] — The military campaign KMAG supervised
 - [[KMAG-활동보고]] — Full source page with 54 documents
 - [[하우스만]] — Key KMAG/PMAG advisor who oversaw Korean military operations

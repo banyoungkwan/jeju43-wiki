@@ -198,7 +198,7 @@ In conclusion, Birtle's work contributes important primary source documentation 
 - [[대반란전-교리]] — counterinsurgency doctrine development and Cold War strategy
 - [[강제이동-및-수용소]] — forced civilian displacement and protected village programs
 - [[KMAG]] — U.S. Military Assistance Group and advisory role
-- [[9연대]] — ROK 9th Regiment's role in suppression operations
+- [[제9연대]] — ROK 9th Regiment's role in suppression operations
 - [[국방부-경찰]] — South Korean military and police forces
 - [[USAMGIK]] — U.S. Army Military Government in Korea
 - [[1948-1949-제주도-작전]] — Cheju-do operations timeline and doctrine application
