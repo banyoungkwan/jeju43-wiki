@@ -24,9 +24,6 @@ Academic sources include papers, dissertations, and research works by scholars s
 - [[김용철_2009_경비대무장대협상|김용철 (2009) — 제주4·3사건 초기 경비대와 무장대 협상 연구]] — 김용철, 2009
 - [[김용철_2009_경비대협상|김용철 (2009) — 4·3사건 초기 제9연대와 무장대 간의 협상 연구]] — 김용철, 2009
 - [[김평선_2010_폭력동기|김평선 (2010) — 서북청년단의 폭력 동기 분석]] — 김평선, 2010
-- [[Kim_2000_한국적근대성|Kim Seong-nae (2000) — Mourning Korean Modernity (한국적근대성 추도)]] — Kim, Seong-Nae (김성례), 2000
-- [[Kim_2004_무속서사시|Kim Seong-nae (2004) — Shamanic Epics (무속서사시)]] — Kim, Seong-Nae (김성례), 2004
-- [[Kim_2019_죽은자의장소|Kim Seong-nae (2019) — Placing the Dead (죽은자의장소)]] — Kim, Seong-Nae (김성례), 2019
 - [[메릴_2004_한국전쟁기원|메릴 (2004) — 한국전쟁의 기원과 진실]] — 메릴, 2004
 - [[무라카미나오코_지영임_2007_재일제주인|무라카미 나오코 & 지영임 (2007) — 4·3당시 일본 에히메(愛媛)로 건너간 사람들에 관한 영연방일본점령군 자료]] — 무라카미 나오코, 지영임, 2007
 - [[문경수_2019_재일디아스포라|문경수 — 냉전·재일조선인·제주 디아스포라: 제주4·3 연구 2편]] — 문경수
@@ -78,6 +75,9 @@ Academic sources include papers, dissertations, and research works by scholars s
 - [[Eperjesi_2022_imperialism|Eperjesi (2022) — The Jeju April 3 Incident and United States Imperialism]] — John R. Eperjesi, 2022
 - [[Hauben_1958_peoples_republic|Hauben (1958) — People's Republic of Jeju Island, 1945-1946]] — Jay Hauben, 1958
 - [[JungKim_2018_생존자자살|Jung & Kim (2018) — Lifetime Suicidal Attempts and Current Suicidal Risk in Aging Survivors]] — Jung, Young-Eun; Kim, Moon-Doo, 2018
+- [[Kim_2000_한국적근대성|Kim Seong-Nae (2000) — Mourning Korean Modernity in the Memory of the Cheju April Third Incident]] — Kim, Seong-Nae (김성례), 2000
+- [[Kim_2004_무속서사시|Kim Seong-Nae (2004) — Shamanic Epics and Narrative Construction of Identity on Cheju Island]] — Kim, Seong-Nae (김성례), 2004
+- [[Kim_2019_죽은자의장소|Kim Seong-Nae (2019) — Placing the Dead in the Postmemory of the Cheju Massacre]] — Kim, Seong-Nae (김성례), 2019
 - [[Kim_2023_economic_impact|Kim (2023) — What Drove Jeju to the Coast? The Enduring Impacts of the Jeju 4.3 Massacre]] — Kim, 2023
 - [[Kim_2025_resistance|Kim (2025) — Resisting the Occupation: The Jeju April Third Uprising of 1948 and the Origin of Anti-Americanism on Jeju Island]] — Jaewon Kim, 2025
 - [[Kim_Jimin_2023_trauma|Kim (2023) — Investigating the Psychological Health and Well-being of Survivors Impacted by State Violence: Jeju April 3rd]] — Kim Jimin, 2023
