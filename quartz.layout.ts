@@ -20,12 +20,45 @@ const explorerSortFn = (a: any, b: any) => {
   const bOrder = analysisOrder[bSlug]
   if (aOrder !== undefined && bOrder !== undefined) return aOrder - bOrder
 
-  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-    // For folders: use slugSegment so numeric prefixes (1-, 2-, ...) sort correctly
-    // For files: use displayName (title)
-    const aKey = a.isFolder ? aSlug : a.displayName
-    const bKey = b.isFolder ? bSlug : b.displayName
-    return aKey.localeCompare(bKey, undefined, {
+  // Files: index first, then sort by publication year (ascending)
+  // File naming convention: {author}_{year}_{title}.md
+  if (!a.isFolder && !b.isFolder) {
+    // Both are files — check for index first
+    const aIsIndex = aSlug === "index"
+    const bIsIndex = bSlug === "index"
+    if (aIsIndex && !bIsIndex) return -1
+    if (!aIsIndex && bIsIndex) return 1
+
+    // Extract year from slugSegment: pattern {author}_{year}_{title}
+    const yearPattern = /_(1[89]\d{2}|20\d{2})_/
+    const aYearMatch = aSlug.match(yearPattern)
+    const bYearMatch = bSlug.match(yearPattern)
+    const aYear = aYearMatch ? parseInt(aYearMatch[1]) : 0
+    const bYear = bYearMatch ? parseInt(bYearMatch[1]) : 0
+
+    // If both have years, sort by year ascending; then by name within same year
+    if (aYear > 0 && bYear > 0) {
+      if (aYear !== bYear) return aYear - bYear
+      // Same year: sort by displayName
+      return (a.displayName ?? aSlug).localeCompare(b.displayName ?? bSlug, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+    // If only one has year, files with year come after index but order normally
+    if (aYear > 0 && bYear === 0) return 1
+    if (aYear === 0 && bYear > 0) return -1
+
+    // Fallback: alphabetical by displayName
+    return (a.displayName ?? aSlug).localeCompare(b.displayName ?? bSlug, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+
+  if (a.isFolder && b.isFolder) {
+    // Both folders: sort by slugSegment for numeric prefix ordering
+    return aSlug.localeCompare(bSlug, undefined, {
       numeric: true,
       sensitivity: "base",
     })

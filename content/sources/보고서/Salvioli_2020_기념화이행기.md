@@ -1,6 +1,6 @@
 ---
 title: "UN A/HRC/45/45 — 기념화: 이행기정의의 다섯 번째 기둥 / Memorialization: The Fifth Pillar of Transitional Justice"
-aliases: [A/HRC/45/45, Salvioli 2020, 기념화 이행기정의, UN 기념화 보고서, Fifth Pillar]
+aliases: ["UN-A-HRC-45-45-기념화와이행기정의", A/HRC/45/45, Salvioli 2020, 기념화 이행기정의, UN 기념화 보고서, Fifth Pillar]
 tags: [소스, UN보고서, 기념화, 이행기정의, 집단기억, 부인주의, 국제규범]
 lang: bilingual
 type: secondary
@@ -25,36 +25,86 @@ url: "https://docs.un.org/en/A/HRC/45/45"
 | 항목 | 내용 |
 |------|------|
 | UN 문서 기호 | A/HRC/45/45 |
-| 제목 | 심각한 인권침해 및 국제인도법 위반 맥락에서의 기념화 과정: 이행기정의의 다섯 번째 기둥 |
+| 제목 | 심각한 인권침해 및 국제인도법 위반 맥락에서의 기념화: 이행기정의의 다섯 번째 기둥 |
 | 저자 | Fabián Salvioli (진실·정의·배상·재발방지 증진 특별보고관) |
-| 제출처 | 유엔 인권이사회 제45차 회기 (2020.9.14~10.2) |
+| 제출처 | 유엔 인권이사회 제45차 회기 |
 | 발행일 | 2020년 7월 9일 |
 | 분량 | 19쪽 |
+| 원본 언어 | Spanish → English |
 | 근거 | 인권이사회 결의 36/7 |
-
-이 보고서는 Salvioli 특보가 2019년 제네바 전문가 회의, 국가·국제기구·NGO 대상 공개 협의(2019.12.6~2020.1.31)를 통해 작성한 주제 보고서이다. 4건의 국가 방문 부속서(Add.1~3)와 함께 제출됐다. 특보는 2019~2020년 방문 요청 국가로 보스니아헤르체고비나, 크로아티아, 감비아, **대한민국**, 세르비아, 튀니지를 선정했으며 한국의 긍정적 응답을 기록했다(para 3). 후속 방문은 2022년 6월 8~15일 실현됐다.
 
 ---
 
-### 핵심 개념 구조
+### 한국어 요약
 
-#### 이행기정의의 5대 기둥
-기존 이행기정의 4기둥(진실·정의·배상·재발방지보장)에 기념화를 **다섯 번째 기둥**으로 추가:
+이 보고서는 기념화를 이행기정의의 다섯 번째 기둥으로 확립하는 획기적 시도로, 진실·정의·배상·재발방지보장에 더하여 "과거를 기억하고 민주적 문화를 구축하는" 기념화가 이행기정의의 불가분 요소임을 주장한다. Salvioli 특보는 2019년 제네바 전문가 회의와 국가·국제기구·NGO 대상 공개 협의(2019.12.6~2020.1.31)를 바탕으로 이 보고서를 작성했으며, 2019~2020년 방문 요청 국가로 보스니아헤르체고비나, 크로아티아, 감비아, **대한민국**, 세르비아, 튀니지를 선정하여 한국의 긍정적 응답을 기록했다(para 3). 후속 방문은 2022년 6월 8~15일에 실현되었고, 이때 제주4·3이 공식 검토 사안에 포함되었다.
 
-| 기둥 | 내용 |
-|------|------|
-| 1. 진실 (Truth) | 과거 위반 사실 규명 |
-| 2. 정의 (Justice) | 가해자 형사 처벌 |
-| 3. 배상 (Reparation) | 피해자 보상 |
-| 4. 재발방지 (Non-Recurrence) | 제도 개혁 |
-| **5. 기념화 (Memorialization)** | **과거를 기억하고 민주적 문화 구축** |
+기념화 과정은 시간적 삼층 구조를 가진다. (a) **과거**: 위반 사실 밝히기와 가해자 형사처벌 포함 | (b) **현재**: 피해자 기억 인정, 배상 제공, 증언 허용, 공식 사과, 부인주의 대응, 신뢰 회복 | (c) **미래**: 교육·인식 제고를 통한 폭력 예방과 평화 문화 구축(para 22). 보고서는 "기념화 과정이 없다면, 진실·정의·배상 또는 재발방지보장의 권리는 완전히 실현될 수 없다"(para 21)고 명시하며, 이는 단순한 상징적 행위가 아니라 법적·정치적 의무의 영역임을 강조한다. 기억 작업은 "배제·차별·소외·권력남용이라는 현재 문제와 과거 위반을 연결하는 성찰의 장"으로 기능한다(para 15).
 
-"기념화 과정이 없다면, 진실·정의·배상 또는 재발방지보장의 권리는 완전히 실현될 수 없다." (para 21)
+보고서의 핵심 개념은 **"대화적 진실(dialogic truth)"**이다(para 36). 이는 단일한 역사적 진실을 국가가 독점하기보다, 과거 범죄와 폭력의 원인·결과 및 책임 귀속에 대한 사회적 토론을 창출하는 것을 의미한다. 진실위원회와 법원의 확정 사실은 검증된 최소 기록이 되지만, 그 위에 다양한 해석과 기억이 공존할 수 있으며, 이것이 민주주의적 화해의 조건이 된다. 그러나 보고서는 명확히 경고한다: "확정된 위반 사실을 부인하거나 축소하는 기념화 정책은 국제인권의무 위반"(para 98)이며, **부인주의(denialism)·수정주의의 절대적 금지**가 필수다(para 97). 집단 기억이 "폭군적 기억(tyranny of memory)"으로 전락할 위험—순교 숭배, 역사 조작, 복수심 부추기기—이 있으므로, 기념화는 피해자 기억을 인정하면서도 폭력 재생산을 막아야 한다(paras 41, 97).
 
-#### 기념화의 3시간 구조 (para 22)
-- **(a) 과거**: 위반 사실 밝히기 (가해자 형사처벌 포함)
-- **(b) 현재**: 피해자 기억 인정, 배상 제공, 증언 허용, 공식 사과, 부인주의 대응, 신뢰 회복
-- **(c) 미래**: 교육·인식 제고를 통한 미래 폭력 예방, 평화 문화 구축
+기념화는 분쟁 중·전환기 상황의 도전을 직면한다. 진행 중인 갈등 상황에서 기념화는 어렵다(중앙아프리카공화국, 말리, 시리아의 사례)(paras 44-46). 전환기 상황에서, 법원 판결만으로는 사회 서사를 바꾸지 못하며(구 유고슬라비아 국제재판소 25년 경험)(para 51), 진실위 권고가 이행되지 않으면 기억의 공백이 생기고 정치적 행위자들에게 착취된다(엘살바도르 사례: 30년 이상 면책 지속)(paras 54-55). 남아공 진실화해위원회는 광범위한 사회적 지지를 확보했으나 구조적 폭력은 미해결 상태였고(para 52), 독일은 뉘른베르크 재판 이후 1960년대부터 민간이 주도한 수천 권의 책과 다큐를 통해 나치 범죄를 인정했다(para 52). 보고서는 아카이브 접근의 중요성을 강조하며—"아카이브 파괴의 역사"(벨기에의 콩고 문서 파기)부터 현재의 국가 안보 기관의 아카이브 제공 거부(모로코, 엘살바도르)까지—아카이브 보호를 "역사 소유권 회복의 핵심"으로 본다(paras 70-76, 114항).
+
+소셜 미디어와 가짜 뉴스를 통한 기억의 무기화(paras 89-98)는 21세기의 새로운 도전이다. 혐오선동의 6가지 기준(Rabat Action Plan)을 적용하면서도 표현의 자유와의 균형을 유지해야 하며, 부인주의적 주장이 민주적 공존을 위협할 때 형사책임(뉘른베르크의 Julius Streicher, 르완다 라디오 밀 콜린 사례)과 미디어 교육이 필요하다. 비후퇴 원칙은 4·3 관련 역사 인식이 정권 교체에 따라 후퇴해서는 안 된다는 국제규범적 요청이다(para 97). 보고서의 15개 핵심 원칙(paras 99-115)은 기념화 의무의 회피 불가(99항), 기억 메커니즘의 재발방지·완전 배상 일환화(101항), 대화적 진실 확립(108항), 피해자 목소리의 핵심 역할(109항), UN 아카이브 공유 절차 수립(114항), 혐오선동 형사처벌·미디어 교육(115항) 등을 포함한다.
+
+---
+
+## English
+
+### Bibliographic Information
+
+| Field | Content |
+|-------|---------|
+| UN Symbol | A/HRC/45/45 |
+| Title | Memorialization processes in the context of serious violations of human rights and international humanitarian law: the fifth pillar of transitional justice |
+| Author | Fabián Salvioli, Special Rapporteur on the promotion of truth, justice, reparation and guarantees of non-recurrence |
+| Submitted to | UN Human Rights Council, 45th session |
+| Date | 9 July 2020 |
+| Pages | 19 |
+| Original Language | Spanish → English |
+| Authority | UN Human Rights Council resolution 36/7 |
+
+---
+
+### English Summary
+
+This landmark report establishes memorialization as the fifth pillar of transitional justice, arguing that without memory processes "the right to truth, justice, reparation, and guarantees of non-recurrence cannot be fully realized" (para 21). Salvioli builds on foundational work by Shaheed on history education (A/68/296, 2013) and memorialization processes (A/HRC/25/49, 2014), completing the transitional justice architecture by enabling societies to move "from the cycle of hatred and conflict toward building a culture of peace" (para 21). The report incorporates 2019 expert meetings and open-ended consultations with states, international organizations, and NGOs; Salvioli's 2019–2020 country visit requests specifically named the Republic of Korea as a priority site, recording Korea's positive response (para 3), with an actual visit occurring 8–15 June 2022 where Jeju April 3rd featured prominently in official discussions. Memory work functions as "a space for reflection linking present-day issues of exclusion, discrimination, marginalization and abuses of power to past violations, which are often rooted in toxic political cultures" (para 15).
+
+Memorialization operates across three temporal dimensions: (a) past—establishing facts and criminal accountability of perpetrators; (b) present—honoring victims, providing reparations, enabling testimony, offering public apologies, combating denialism, restoring trust; (c) future—preventing future violence through education and awareness-raising, building a culture of peace (para 22). The core concept is **"dialogic truth"**—not a monolithic state-imposed narrative, but conditions for societal debate on "the causes and consequences of past crimes and violence and on the attribution of direct and indirect responsibility" (para 36). Truth commissions and courts provide a "verified minimum record" (para 38), but diverse interpretations and memories can legitimately coexist atop this foundation. However, the report explicitly warns: "memory policies that deny or downplay verified violations constitute a violation of international human rights obligations" (para 98), with **absolute prohibition of denialism and revisionism** as non-negotiable (para 97). Collective memory risks devolving into "tyranny of memory"—martyr cults, historical manipulation, incitement to revenge (paras 41, 97)—therefore memorialization must acknowledge victim memory while preventing violence reproduction.
+
+Memorialization faces distinct challenges in conflict and transition contexts. During ongoing conflict, memorialization is extremely difficult, as state authority dissolves and fresh violations continue (Central African Republic, Mali, Syria cases, paras 44-46). In post-conflict transition, court verdicts alone cannot reshape social narratives—the International Criminal Tribunal for the former Yugoslavia's 25-year experience demonstrates this (para 51). When truth commission recommendations go unimplemented, memorial gaps emerge that political actors exploit (El Salvador: 30+ years of impunity continuation, paras 54-55). South Africa's Truth and Reconciliation Commission achieved broad social support but left structural violence unaddressed (para 52); Germany, following Nuremberg Trials, enabled post-1960s civil-society-driven production of thousands of books and documentaries narrating Nazi crimes (para 52). Archive access proves critical—from Leopold II's destruction of Congo documents to current state security agencies' refusal to provide materials (Morocco, El Salvador, paras 70-76, 114)—making archive protection "central to reclaiming ownership of history" (para 76).
+
+Weaponization of memory through social media (paras 89-98) presents a twenty-first-century challenge. The Rabat Action Plan's six-criteria test for hate speech provides guidance while maintaining freedom of expression balance; when denialism threatens democratic coexistence, criminal liability (Nuremberg's Julius Streicher, Rwanda's RTLM cases) and media education are warranted. The non-regression principle holds that Jeju April 3rd historical awareness must not retreat with regime change—an international human rights obligation (para 97). The report's fifteen core principles (paras 99-115) include: obligation to memorialization cannot be avoided (para 99); memory mechanisms are integral to non-recurrence and complete reparations (para 101); dialogic truth establishment—no denial or minimization of verified violations (para 108); victim voices must play central roles (para 109); UN must establish archive-sharing procedures (para 114); hate speech criminalization and media education required (para 115).
+
+The normative framework derives from Joinet-Orentlicher Principles (updated set protecting human rights through combating impunity), Van Boven-Bassiouni Principles, and UN General Assembly Resolution 60/147 (Basic Principles and Guidelines on Reparation), which specifies that satisfaction includes "verification of facts and full and public disclosure of truth; official declaration or judicial decision restoring dignity, reputation and rights; public apologies including acknowledgement and acceptance of responsibility; commemorations and tributes to victims; and inclusion of accurate information in training and educational materials" (para 30). Inter-American Court of Human Rights binding orders for monuments (Peru's "The Eye that Cries," Colombia, Guatemala cases, paras 36-38) and truth commissions globally (El Salvador, Guatemala, Morocco) have issued sweeping memorialization recommendations (paras 39-44), yet implementation remains sporadic. Successful memorialization requires multi-actor collaboration: states provide long-term strategy and public space management; civil society generates legitimacy and sustained debate (paras 100-101). The principle that "victims and society are not merely beneficiaries but active agents" in design and implementation (para 95) means bottom-up participation is not optional but foundational to legitimate memory work.
+
+---
+
+### 키워드
+
+**인물**: Fabián Salvioli (진실·정의·배상·재발방지 특별보고관) | Louis Joinet | Theo van Boven | Cherif Bassiouni | Julius Streicher (뉘른베르크)
+
+**사건**: 기념화의 국제 규범화 | 이행기정의 5기둥 확립 | 부인주의 금지 | 아카이브 접근권 | 소셜 미디어 기억 무기화
+
+**장소**: 보스니아헤르체고비나 | 크로아티아 | 감비아 | 대한민국 (제주4·3) | 세르비아 | 튀니지 | 중앙아프리카공화국 | 말리 | 시리아 | 엘살바도르 | 과테말라 | 모로코 | 남아공 | 독일 (뉘른베르크) | 페루 (The Eye that Cries) | 콜롬비아 | 스레브레니차
+
+**기관**: 유엔 인권이사회 | 미주인권법원 | 국제형사재판소 (ICTY) | 진실화해위원회 (다국가) | 국제공정독립메커니즘 (IIIM, 시리아)
+
+**개념**: 기념화 (제5기둥) | 대화적 진실 | 이행기정의 | 비후퇴 원칙 | 부인주의 금지 | 기억의 의무 | 아카이브 접근 | 혐오선동 | 소셜 미디어 거버넌스 | 능동적 행위자로서의 피해자
+
+---
+
+### 관련 링크
+
+- [[UN-A68-296-역사쓰기와교육]] — Shaheed 선행 보고서 (2013)
+- [[UN-A-HRC-25-49-기념화과정]] — Shaheed 중간 보고서 (2014)
+- [[이행기정의]] — 기념화의 이론적 틀
+- [[진실화해위원회]] — 기념화 권고 실행 검토
+- [[아카이브접근권]] — 국제 규범과 실행 간 격차
+- [[부인주의금지]] — 국제인권법의 경계선
+- [[4-3평화공원]] — 한국의 기념화 실천
+- [[화해와기억]] — 대화적 진실의 실현
+- [[제주4-3]] — Salvioli의 공식 방문 대상
 
 ---
 

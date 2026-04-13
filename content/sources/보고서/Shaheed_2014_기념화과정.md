@@ -1,6 +1,6 @@
 ---
 title: "UN A/HRC/25/49 — 기념화 과정: 문화적 권리 특별보고관 보고서 (Farida Shaheed, 2014)"
-aliases: [A/HRC/25/49, 기념화 과정, memorialization processes]
+aliases: ["UN-A-HRC-25-49-기념화과정", A/HRC/25/49, 기념화 과정, memorialization processes]
 tags: [소스, UN보고서, 기념화, 문화적권리, 이행기정의, 기억공간, 다크투어리즘]
 lang: bilingual
 type: UN보고서
@@ -13,27 +13,92 @@ created: 2026-04-08
 updated: 2026-04-08
 ---
 
-## 문서 개요 / Document Overview
+## 한국어
 
-이 보고서는 Farida Shaheed 문화적 권리 특별보고관의 **3부작 시리즈의 제2부**입니다:
-- **제1부**: A/68/296 (2013) — 역사의 쓰기와 교육 (Writing and teaching of history)
-- **제2부**: A/HRC/25/49 (2014) — 기념화 과정 (Memorialization processes) 
-- **제3부**: A/HRC/45/45 (2020) — 기념화와 이행기정의 (Memorialization and transitional justice)
+### 서지 정보
 
-**신청 근거**: UN 인권이사회 결의 19/6 (para 1)
-**원본 언어**: English  
-**발표일**: 2014년 1월 23일
-
-### 핵심 주제
-기념화란 "과거 사건(전쟁·분쟁·인권침해)에 관한 물리적 표현 또는 기념 활동으로 공공 장소에 위치하는 것"(para 5)이며, **포스트 갈등 분단 사회**에서:
-- 피해자 인정 (recognition)
-- 인권침해 배상 (reparation)
-- 재발 방지 보장 (guarantee of non-recurrence)
-의 수단으로 기능합니다(para 2-3).
+| 항목 | 내용 |
+|------|------|
+| UN 문서 기호 | A/HRC/25/49 |
+| 제목 | 기념화 과정: 문화적 권리 특별보고관 보고서 |
+| 저자 | Farida Shaheed (문화적 권리 특별보고관) |
+| 제출처 | 유엔 인권이사회 제25차 회기 |
+| 발행일 | 2014년 1월 23일 |
+| 분량 | 23쪽 |
+| 원본 언어 | English |
+| 근거 | UN 인권이사회 결의 19/6 |
 
 ---
 
-## 핵심 구조 및 장별 요약
+### 한국어 요약
+
+기념화는 과거 사건(전쟁, 분쟁, 인권침해)에 관한 물리적 표현 또는 기념 활동으로 공공 장소에 위치하는 것이며, 포스트 갈등 분단 사회에서 피해자 인정, 인권침해 배상, 재발 방지 보장의 수단으로 기능한다. 이 보고서는 Farida Shaheed 특보의 3부작 시리즈 중 두 번째 작업으로, 역사 교육(A/68/296, 2013)과 기념화·이행기정의(A/HRC/45/45, 2020)를 잇는 중간 고리이다. 기념화의 목표는 다층적이다. 과거지향적으로는 사건을 회상하고 피해자를 인정·추모하며 내러티브를 전승하는 것이고, 현재지향적으로는 치유와 공동체 간 신뢰 재구축이며, 미래지향적으로는 교육과 인식 제고를 통한 폭력 예방이다(para 13).
+
+기념화의 정치성은 피할 수 없으며, 오히려 명확히 인식되어야 한다. "어떤 내러티브를 홍보할 것인가", "언제", "어디서", "누가 참여하는가"라는 질문은 모두 정치적 선택이며, 기념화 정책이 "피해자 계층화"와 "피해자 경쟁"을 야기할 위험이 있다. 보고서는 고대 그리스의 전장 기념물이 침식 가능하도록 목재로 건축되어 적대자 간 화해의 여지를 제공했던 사례부터, 1980년대 이후 "기억의 의무(duty of remembrance)" 개념 출현, 1990년대 후반 이행기정의 패러다임으로의 재구성에 이르는 역사적 변화를 추적한다(paras 8-14). 현실적으로 지난 20년간 기념물과 박물관이 폭증했으나, 이는 "기념화 독재(memorial tyrannies)"의 위험—피해자들을 과거에 갇히게 하고 다른 사건·집단의 기억 공간을 축소—을 동반한다(paras 15-17).
+
+규범적 프레임워크로서 Joinet-Orentlicher 원칙과 Van Boven-Bassiouni 원칙이 기여한다. 1997년 Joinet 원칙은 "한 민족의 억압 역사에 대한 지식은 그 유산의 일부이며, 국가의 기억 의무에 의해 보존되어야 한다"고 명시했으며(Principle 2, para 28), 공개 기념식, 도로 명명, 기념물 건립을 기억 의무 이행 수단으로 제시했다(para 29). 이는 UN 총회 결의 60/147(기본원칙 및 배상 가이드라인)에 흡수되어, 배상에 "정확한 위반 사항 공개, 공식 선언, 공개 사과, 기념식, 교육 자료 포함"을 명시했다(para 31). 1990-2000년대 홀로코스트 국제회의(런던, 워싱턴, 스톡홀름)는 상징적 배상을 국제 의제에 정착시켰고(para 33-35), 미주인권법원은 기념물 건립을 명령하는 선례를 만들었다(paras 36-38). 진실화해위원회들(엘살바도르, 과테말라, 모로코 등)은 광범위한 기념화 권고를 제시했으나, 대부분 미이행 상태이다(para 43).
+
+기념화 실천의 구체적 도전은 다각적이다. "누가 피해자인가"라는 질문에서—가해자도 범죄 맥락에서 살해되면 피해자인가—"피해자 계층화"의 함정에 빠진다(paras 50-56). "언제 기념화할 것인가"라는 시간성 문제는 갈등 중 기념화의 성찰 미성숙과 지연으로 인한 추가 고통 사이의 균형을 요구한다(paras 57-58). 상향식 기념화(북아일랜드 벽화)는 비폭력 저항이나 지역 주민에게 강압적 상징을 부과할 위험을 동시에 안고 있다(paras 59-60). 억압 정권의 유산 건축물—스페인의 "계곡의 눈물", 불가리아의 디미트로프 영묘, 독일의 히틀러 벙커—을 파괴·보존·변형할 것인가의 선택은 모두 정치적·상징적 의미를 담는다(paras 61-63).
+
+예술과 기억의 관계는 보고서의 또 다른 핵심이다. "기념물의 형태는 사회적 영향을 결정하는 결정적 요소"이며(para 66), 조헨·에스터 게르츠의 침강하는 기둥 같은 반(反)기념물 운동은 "오직 사람만 파시즘에 저항할 수 있다"는 메시지를 전달한다(paras 67-68). 박물관은 "역사 박물관"(학문적 엄밀성)과 "기억 박물관"(이벤트 축하, 피해자 추도)의 구분을 넘어 혼합 모델로 진화하고 있으며(paras 74-79), 뉴질랜드 Te Papa Tongarewa의 사례처럼 큐레이터가 기억의 "촉진자"로서 다중 관점과 문화 표현 공간을 제공해야 한다(para 88). DNA 신원 확인 기술은 스레브레니차 이후 유해 반환을 가능하게 했으나, 많은 국가에서 재정적으로 불가능하며, 유족들은 "상징적 기념물보다 물리적 반환"을 선호하는 경향을 보인다(paras 80-82). 결론적으로 기념화는 "과정"으로 이해되어야 하며, 물리적 기념물 건립뿐만 아니라 다양한 활동과 문화 표현을 포함해야 하며(para 103), 모든 선택에서 "피해자와 사회는 수혜자만 아니라 능동적 행위자"로서 설계·제조에 참여해야 한다(paras 95-97).
+
+---
+
+## English
+
+### Bibliographic Information
+
+| Field | Content |
+|-------|---------|
+| UN Symbol | A/HRC/25/49 |
+| Title | Memorialization processes: Report of the Special Rapporteur in the field of cultural rights |
+| Author | Farida Shaheed, Special Rapporteur on Cultural Rights |
+| Submitted to | UN Human Rights Council, 25th session |
+| Date | 23 January 2014 |
+| Pages | 23 |
+| Original Language | English |
+| Authority | UN Human Rights Council resolution 19/6 |
+
+---
+
+### English Summary
+
+Memorialization constitutes the physical or commemorative representation of past events (war, conflict, human rights violations) located in public space, functioning in post-conflict divided societies as a means of victim recognition, reparation, and guarantee of non-recurrence. Shaheed's 2014 report is the second of three consecutive studies, bridging history education (A/68/296, 2013) and memorialization-as-transitional-justice (A/HRC/45/45, 2020). Memorialization objectives operate across temporal horizons: past-oriented (recalling events, acknowledging and mourning victims, transmitting narratives), present-oriented (healing and restoring inter-communal trust), and future-oriented (preventing violence through education and awareness-raising) (para 13). The report establishes that memorialization is inescapably political, yet this politicality must be recognized rather than concealed—questions of "which narrative," "when," "where," and "who participates" are all political choices, carrying risk of "victim hierarchies" and "victim competition" (paras 19-24).
+
+The historical trajectory of memorialization reveals shifting purposes and ethical frameworks. Ancient Greek battlefield memorials, deliberately constructed in wood to enable erosion and reconciliation between former adversaries, contrast with twentieth-century state monopolies over historical narrative. The emergence of the "duty of remembrance" concept in the 1980s, and its reframing within transitional justice frameworks in the 1990s, marks a fundamental shift from nationalist commemoration to human rights-based memory work (paras 8-14). Yet the explosion of memorials and museums over the past two decades risks creating "memorial tyrannies"—confining victims to past status, crowding out memory space for other events and communities, and using memory instrumentally for current political ends (paras 15-17). The report's core ethical principle is that memorialization must liberate rather than entrap; it must serve reconciliation and prevention, not perpetuate resentment or justify future violence.
+
+International law has incrementally constructed a normative framework for memorialization as state obligation. Louis Joinet's 1997 principles established that "knowledge of the oppressive history of a people is part of its heritage, and should be preserved as an integral part of the nation's memory" (Principle 2, para 28), specifying commemorative ceremonies, place-naming, and monument-building as instruments of this duty (para 29). These principles were absorbed into UN General Assembly Resolution 60/147 (Basic Principles and Guidelines on Reparation), which includes within the right to reparation: "verification of the facts and full and public disclosure of the truth; an official declaration or a judicial decision restoring dignity, reputation and rights; public apologies including acknowledgement of facts and acceptance of responsibility; commemorations and tributes to victims; and inclusion of accurate information on violations in training courses and educational materials" (para 31). International conferences on Holocaust memory (London, Washington, Stockholm, 1990-2000s) anchored symbolic reparation in international agendas (paras 33-35), while the Inter-American Court of Human Rights created binding precedents ordering monuments (paras 36-38). Truth commissions globally—El Salvador, Guatemala, Morocco—issued sweeping memorialization recommendations, though implementation remains sparse (para 43).
+
+Practical challenges of memorialization resist straightforward solutions. The question "who counts as a victim?" reveals traps of victim categorization—when perpetrators are also killed in criminal contexts, are they victims? (paras 50-56). Temporality questions pit the dangers of premature memorialization during ongoing conflict against the suffering inflicted by indefinite delay (paras 57-58). Bottom-up memorialization (Northern Ireland murals) functions as nonviolent resistance yet risks imposing coercive symbols on unwilling communities (paras 59-60). Choices regarding legacies of oppressive regimes—Spain's "Valley of the Fallen," Bulgaria's Dimitrov mausoleum, Germany's Hitler bunker—require navigation between preservation, transformation, and destruction, each choice laden with political meaning (paras 61-63). Artists play irreducible roles: monument form determines social impact (para 66); counter-monument movements like Jochen and Esther Shalev-Gertz's sinking column convey "only people can resist fascism" (paras 67-68); museums evolve beyond "history museums" (scholarly rigor) and "memory museums" (victim commemoration) toward hybrid models where curators function as memory facilitators providing multiperspectival space (paras 74-79).
+
+Victim participation and dignity form the report's normative foundation. DNA technology since Srebrenica has enabled repatriation of remains, yet financial barriers exclude many societies, and families often prefer "physical return of bodies to symbolic monuments in concrete" (paras 80-82). The fundamental principle is that memorialization should be understood as "process" rather than fixed outcome, encompassing diverse activities and cultural expressions beyond physical monuments (para 103), with "victims and society [as] not merely beneficiaries but active agents" in design and implementation (paras 95-97). Successful memorialization requires multi-actor collaboration: states provide public space management and long-term strategy while civil society generates legitimacy and sustained public debate (paras 100-101). The balance between emotion and historical distance is delicate—"without feeling, impact is insufficient; without perspective, victimized memory risks forgetting prevention" (para 102). Ultimately, memorialization that liberates rather than enslaves acknowledges past crimes, restores victim dignity, combats denialism, and builds democratic cultures where human rights violations cannot recur.
+
+---
+
+### 키워드
+
+**인물**: Farida Shaheed (문화적 권리 특별보고관) | Louis Joinet | Jochen과 Esther Shalev-Gertz (반기념물 예술가)
+
+**사건**: 기념화 정책화 | 피해자 인정·추모 | 기억의 정치화 | 홀로코스트 국제회의 | 진실화해위원회 권고 이행
+
+**장소**: 고대 그리스 (전장 기념물) | 북아일랜드 (벽화) | 함부르크 (침강하는 기둥) | 스페인 (계곡의 눈물) | 불가리아 (디미트로프 영묘) | 독일 (히틀러 벙커) | 스레브레니차 | 뉴질랜드 (Te Papa Tongarewa)
+
+**기관**: 유엔 인권이사회 | 미주인권법원 | 진실위원회 (엘살바도르, 과테말라, 모로코)
+
+**개념**: 기념화 과정 | 피해자 인정과 배상 | 기억의 의무 | 상징적 배상 | 기념물 건립 | 반(反)기념물 운동 | 박물관 전시 | 다문화 기억 | 능동적 행위자로서의 피해자
+
+---
+
+### 관련 링크
+
+- [[UN-A68-296-역사쓰기와교육]] — Shaheed 3부작 제1부 (2013)
+- [[UN-A-HRC-45-45-기념화와이행기정의]] — Shaheed 3부작 제3부 (2020)
+- [[이행기정의]] — 5대 기둥으로서의 기념화
+- [[진실위원회]] — 기념화 권고와 이행 과제
+- [[피해자권리]] — 인정과 배상의 문화적 차원
+- [[4-3평화공원]] — 기념화의 한국 사례
+- [[화해]] — 기념화와 사회적 신뢰 복원
+- [[기억의정치]] — 기념물과 국가 정체성
 
 ### I. 서론 (Introduction, para 1-4)
 
