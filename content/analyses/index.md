@@ -2,7 +2,6 @@
 title: "분석"
 title_en: "Analyses"
 ---
-
 제주4·3 사건의 주요 주제를 깊이 있게 분석한 글 모음입니다. 위키 본문의 개별 항목들을 횡단적으로 연결하여, 사건의 구조와 맥락을 조명합니다.
 
 A collection of in-depth analyses on key themes of the Jeju 4·3 Incident. These cross-cutting essays connect individual wiki entries to illuminate the structures and contexts of the events.
